@@ -43,9 +43,9 @@
                 target="_blank">2017-2023</a>, <a
                 href="https://analytics.wikimedia.org/published/datasets/country_project_page/"
                 target="_blank">2023-present</a>.</p>
-            <p>The source code for this tool is available (<a
-                href="https://github.com/htried/dp-pageviews-tool-frontend" target="_blank">frontend</a>, <a
-                href="https://gitlab.wikimedia.org/htriedman/dp-pageviews-tool-backend" target="_blank">backend</a>) for
+            <p>The source code for this tool is available (<a href="https://github.com/htried/dp-pageviews-tool-ui"
+                target="_blank">frontend</a>, <a href="https://gitlab.wikimedia.org/htriedman/dp-pageviews-tool-backend"
+                target="_blank">backend</a>) for
               use under the MIT License at the Wikimedia Foundation Gitlab instance.</p>
           </div>
         </div>
@@ -85,10 +85,10 @@
           Engineering</a> team and <a href="https://meta.wikimedia.org/wiki/User:MGerlach_(WMF)" target="_blank">Martin
           Gerlach</a> as part of the <a href="https://research.wikimedia.org" target="_blank">Research team</a>.</p>
       <ul>
-        <li><a href="https://github.com/htried/dp-pageviews-tool-frontend/" target="_blank">View frontend
+        <li><a href="https://github.com/htried/dp-pageviews-tool-ui/" target="_blank">View frontend
             source</a><br /><a href="https://gitlab.wikimedia.org/htriedman/dp-pageviews-tool-backend"
             target="_blank">View backend source</a></li>
-        <li><a href="https://github.com/htried/dp-pageviews-tool-frontend/blob/main/LICENSE" target="_blank">Frontend
+        <li><a href="https://github.com/htried/dp-pageviews-tool-ui/blob/main/LICENSE" target="_blank">Frontend
             license</a><br /><a
             href="https://gitlab.wikimedia.org/htriedman/dp-pageviews-tool-backend/-/blob/main/LICENSE"
             target="_blank">Backend license</a></li>
