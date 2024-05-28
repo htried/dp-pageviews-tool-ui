@@ -1,0 +1,4557 @@
+[
+    {
+        "label": "English Wikipedia",
+        "description": "en.wikipedia.org",
+        "value": "en.wikipedia.org"
+    },
+    {
+        "label": "English Wikibooks",
+        "description": "en.wikibooks.org",
+        "value": "en.wikibooks.org"
+    },
+    {
+        "label": "English Wikinews",
+        "description": "en.wikinews.org",
+        "value": "en.wikinews.org"
+    },
+    {
+        "label": "English Wikiquote",
+        "description": "en.wikiquote.org",
+        "value": "en.wikiquote.org"
+    },
+    {
+        "label": "English Wikisource",
+        "description": "en.wikisource.org",
+        "value": "en.wikisource.org"
+    },
+    {
+        "label": "English Wikiversity",
+        "description": "en.wikiversity.org",
+        "value": "en.wikiversity.org"
+    },
+    {
+        "label": "English Wikivoyage",
+        "description": "en.wikivoyage.org",
+        "value": "en.wikivoyage.org"
+    },
+    {
+        "label": "English Wiktionary",
+        "description": "en.wiktionary.org",
+        "value": "en.wiktionary.org"
+    },
+    {
+        "label": "Arabic Wikipedia",
+        "description": "ar.wikipedia.org",
+        "value": "ar.wikipedia.org"
+    },
+    {
+        "label": "Arabic Wikibooks",
+        "description": "ar.wikibooks.org",
+        "value": "ar.wikibooks.org"
+    },
+    {
+        "label": "Arabic Wikinews",
+        "description": "ar.wikinews.org",
+        "value": "ar.wikinews.org"
+    },
+    {
+        "label": "Arabic Wikiquote",
+        "description": "ar.wikiquote.org",
+        "value": "ar.wikiquote.org"
+    },
+    {
+        "label": "Arabic Wikisource",
+        "description": "ar.wikisource.org",
+        "value": "ar.wikisource.org"
+    },
+    {
+        "label": "Arabic Wikiversity",
+        "description": "ar.wikiversity.org",
+        "value": "ar.wikiversity.org"
+    },
+    {
+        "label": "Arabic Wiktionary",
+        "description": "ar.wiktionary.org",
+        "value": "ar.wiktionary.org"
+    },
+    {
+        "label": "Chinese Wikipedia",
+        "description": "zh.wikipedia.org",
+        "value": "zh.wikipedia.org"
+    },
+    {
+        "label": "Chinese Wikibooks",
+        "description": "zh.wikibooks.org",
+        "value": "zh.wikibooks.org"
+    },
+    {
+        "label": "Chinese Wikinews",
+        "description": "zh.wikinews.org",
+        "value": "zh.wikinews.org"
+    },
+    {
+        "label": "Chinese Wikiquote",
+        "description": "zh.wikiquote.org",
+        "value": "zh.wikiquote.org"
+    },
+    {
+        "label": "Chinese Wikisource",
+        "description": "zh.wikisource.org",
+        "value": "zh.wikisource.org"
+    },
+    {
+        "label": "Chinese Wikiversity",
+        "description": "zh.wikiversity.org",
+        "value": "zh.wikiversity.org"
+    },
+    {
+        "label": "Chinese Wikivoyage",
+        "description": "zh.wikivoyage.org",
+        "value": "zh.wikivoyage.org"
+    },
+    {
+        "label": "Chinese Wiktionary",
+        "description": "zh.wiktionary.org",
+        "value": "zh.wiktionary.org"
+    },
+    {
+        "label": "Afar Wikipedia",
+        "description": "aa.wikipedia.org",
+        "value": "aa.wikipedia.org"
+    },
+    {
+        "label": "Afar Wikibooks",
+        "description": "aa.wikibooks.org",
+        "value": "aa.wikibooks.org"
+    },
+    {
+        "label": "Afar Wiktionary",
+        "description": "aa.wiktionary.org",
+        "value": "aa.wiktionary.org"
+    },
+    {
+        "label": "Abkhazian Wikipedia",
+        "description": "ab.wikipedia.org",
+        "value": "ab.wikipedia.org"
+    },
+    {
+        "label": "Abkhazian Wiktionary",
+        "description": "ab.wiktionary.org",
+        "value": "ab.wiktionary.org"
+    },
+    {
+        "label": "Achinese Wikipedia",
+        "description": "ace.wikipedia.org",
+        "value": "ace.wikipedia.org"
+    },
+    {
+        "label": "Adyghe Wikipedia",
+        "description": "ady.wikipedia.org",
+        "value": "ady.wikipedia.org"
+    },
+    {
+        "label": "Afrikaans Wikipedia",
+        "description": "af.wikipedia.org",
+        "value": "af.wikipedia.org"
+    },
+    {
+        "label": "Afrikaans Wikibooks",
+        "description": "af.wikibooks.org",
+        "value": "af.wikibooks.org"
+    },
+    {
+        "label": "Afrikaans Wikiquote",
+        "description": "af.wikiquote.org",
+        "value": "af.wikiquote.org"
+    },
+    {
+        "label": "Afrikaans Wiktionary",
+        "description": "af.wiktionary.org",
+        "value": "af.wiktionary.org"
+    },
+    {
+        "label": "Akan Wikipedia",
+        "description": "ak.wikipedia.org",
+        "value": "ak.wikipedia.org"
+    },
+    {
+        "label": "Akan Wikibooks",
+        "description": "ak.wikibooks.org",
+        "value": "ak.wikibooks.org"
+    },
+    {
+        "label": "Akan Wiktionary",
+        "description": "ak.wiktionary.org",
+        "value": "ak.wiktionary.org"
+    },
+    {
+        "label": "Alemannisch Wikipedia",
+        "description": "als.wikipedia.org",
+        "value": "als.wikipedia.org"
+    },
+    {
+        "label": "Altai Wikipedia",
+        "description": "alt.wikipedia.org",
+        "value": "alt.wikipedia.org"
+    },
+    {
+        "label": "Amis Wikipedia",
+        "description": "ami.wikipedia.org",
+        "value": "ami.wikipedia.org"
+    },
+    {
+        "label": "Amharic Wikipedia",
+        "description": "am.wikipedia.org",
+        "value": "am.wikipedia.org"
+    },
+    {
+        "label": "Amharic Wikiquote",
+        "description": "am.wikiquote.org",
+        "value": "am.wikiquote.org"
+    },
+    {
+        "label": "Amharic Wiktionary",
+        "description": "am.wiktionary.org",
+        "value": "am.wiktionary.org"
+    },
+    {
+        "label": "Old English Wikipedia",
+        "description": "ang.wikipedia.org",
+        "value": "ang.wikipedia.org"
+    },
+    {
+        "label": "Old English Wikibooks",
+        "description": "ang.wikibooks.org",
+        "value": "ang.wikibooks.org"
+    },
+    {
+        "label": "Old English Wikiquote",
+        "description": "ang.wikiquote.org",
+        "value": "ang.wikiquote.org"
+    },
+    {
+        "label": "Old English Wikisource",
+        "description": "ang.wikisource.org",
+        "value": "ang.wikisource.org"
+    },
+    {
+        "label": "Old English Wiktionary",
+        "description": "ang.wiktionary.org",
+        "value": "ang.wiktionary.org"
+    },
+    {
+        "label": "Angika Wikipedia",
+        "description": "anp.wikipedia.org",
+        "value": "anp.wikipedia.org"
+    },
+    {
+        "label": "Aragonese Wikipedia",
+        "description": "an.wikipedia.org",
+        "value": "an.wikipedia.org"
+    },
+    {
+        "label": "Aragonese Wiktionary",
+        "description": "an.wiktionary.org",
+        "value": "an.wiktionary.org"
+    },
+    {
+        "label": "Syriac Wikipedia",
+        "description": "arc.wikipedia.org",
+        "value": "arc.wikipedia.org"
+    },
+    {
+        "label": "Moroccan Arabic Wikipedia",
+        "description": "ary.wikipedia.org",
+        "value": "ary.wikipedia.org"
+    },
+    {
+        "label": "Egyptian Arabic Wikipedia",
+        "description": "arz.wikipedia.org",
+        "value": "arz.wikipedia.org"
+    },
+    {
+        "label": "Asturian Wikipedia",
+        "description": "ast.wikipedia.org",
+        "value": "ast.wikipedia.org"
+    },
+    {
+        "label": "Asturian Wikibooks",
+        "description": "ast.wikibooks.org",
+        "value": "ast.wikibooks.org"
+    },
+    {
+        "label": "Asturian Wikiquote",
+        "description": "ast.wikiquote.org",
+        "value": "ast.wikiquote.org"
+    },
+    {
+        "label": "Asturian Wiktionary",
+        "description": "ast.wiktionary.org",
+        "value": "ast.wiktionary.org"
+    },
+    {
+        "label": "Assamese Wikipedia",
+        "description": "as.wikipedia.org",
+        "value": "as.wikipedia.org"
+    },
+    {
+        "label": "Assamese Wikibooks",
+        "description": "as.wikibooks.org",
+        "value": "as.wikibooks.org"
+    },
+    {
+        "label": "Assamese Wikiquote",
+        "description": "as.wikiquote.org",
+        "value": "as.wikiquote.org"
+    },
+    {
+        "label": "Assamese Wikisource",
+        "description": "as.wikisource.org",
+        "value": "as.wikisource.org"
+    },
+    {
+        "label": "Assamese Wiktionary",
+        "description": "as.wiktionary.org",
+        "value": "as.wiktionary.org"
+    },
+    {
+        "label": "Atikamekw Wikipedia",
+        "description": "atj.wikipedia.org",
+        "value": "atj.wikipedia.org"
+    },
+    {
+        "label": "Kotava Wikipedia",
+        "description": "avk.wikipedia.org",
+        "value": "avk.wikipedia.org"
+    },
+    {
+        "label": "Avaric Wikipedia",
+        "description": "av.wikipedia.org",
+        "value": "av.wikipedia.org"
+    },
+    {
+        "label": "Avaric Wiktionary",
+        "description": "av.wiktionary.org",
+        "value": "av.wiktionary.org"
+    },
+    {
+        "label": "Awadhi Wikipedia",
+        "description": "awa.wikipedia.org",
+        "value": "awa.wikipedia.org"
+    },
+    {
+        "label": "Aymara Wikipedia",
+        "description": "ay.wikipedia.org",
+        "value": "ay.wikipedia.org"
+    },
+    {
+        "label": "Aymara Wikibooks",
+        "description": "ay.wikibooks.org",
+        "value": "ay.wikibooks.org"
+    },
+    {
+        "label": "Aymara Wiktionary",
+        "description": "ay.wiktionary.org",
+        "value": "ay.wiktionary.org"
+    },
+    {
+        "label": "South Azerbaijani Wikipedia",
+        "description": "azb.wikipedia.org",
+        "value": "azb.wikipedia.org"
+    },
+    {
+        "label": "Azerbaijani Wikipedia",
+        "description": "az.wikipedia.org",
+        "value": "az.wikipedia.org"
+    },
+    {
+        "label": "Azerbaijani Wikibooks",
+        "description": "az.wikibooks.org",
+        "value": "az.wikibooks.org"
+    },
+    {
+        "label": "Azerbaijani Wikiquote",
+        "description": "az.wikiquote.org",
+        "value": "az.wikiquote.org"
+    },
+    {
+        "label": "Azerbaijani Wikisource",
+        "description": "az.wikisource.org",
+        "value": "az.wikisource.org"
+    },
+    {
+        "label": "Azerbaijani Wiktionary",
+        "description": "az.wiktionary.org",
+        "value": "az.wiktionary.org"
+    },
+    {
+        "label": "Balinese Wikipedia",
+        "description": "ban.wikipedia.org",
+        "value": "ban.wikipedia.org"
+    },
+    {
+        "label": "Balinese Wikisource",
+        "description": "ban.wikisource.org",
+        "value": "ban.wikisource.org"
+    },
+    {
+        "label": "Bavarian Wikipedia",
+        "description": "bar.wikipedia.org",
+        "value": "bar.wikipedia.org"
+    },
+    {
+        "label": "Samogitian Wikipedia",
+        "description": "bat-smg.wikipedia.org",
+        "value": "bat-smg.wikipedia.org"
+    },
+    {
+        "label": "Bashkir Wikipedia",
+        "description": "ba.wikipedia.org",
+        "value": "ba.wikipedia.org"
+    },
+    {
+        "label": "Bashkir Wikibooks",
+        "description": "ba.wikibooks.org",
+        "value": "ba.wikibooks.org"
+    },
+    {
+        "label": "Toba Batak Wikipedia",
+        "description": "bbc.wikipedia.org",
+        "value": "bbc.wikipedia.org"
+    },
+    {
+        "label": "Bikol Central Wikipedia",
+        "description": "bcl.wikipedia.org",
+        "value": "bcl.wikipedia.org"
+    },
+    {
+        "label": "Central Bikol Wikiquote",
+        "description": "bcl.wikiquote.org",
+        "value": "bcl.wikiquote.org"
+    },
+    {
+        "label": "Central Bikol Wiktionary",
+        "description": "bcl.wiktionary.org",
+        "value": "bcl.wiktionary.org"
+    },
+    {
+        "label": "Belarusian (Taraškievica) Wikipedia",
+        "description": "be-tarask.wikipedia.org",
+        "value": "be-tarask.wikipedia.org"
+    },
+    {
+        "label": "Belarusian Wikipedia",
+        "description": "be.wikipedia.org",
+        "value": "be.wikipedia.org"
+    },
+    {
+        "label": "Belarusian Wikibooks",
+        "description": "be.wikibooks.org",
+        "value": "be.wikibooks.org"
+    },
+    {
+        "label": "Belarusian Wikiquote",
+        "description": "be.wikiquote.org",
+        "value": "be.wikiquote.org"
+    },
+    {
+        "label": "Belarusian Wikisource",
+        "description": "be.wikisource.org",
+        "value": "be.wikisource.org"
+    },
+    {
+        "label": "Belarusian Wiktionary",
+        "description": "be.wiktionary.org",
+        "value": "be.wiktionary.org"
+    },
+    {
+        "label": "Bulgarian Wikipedia",
+        "description": "bg.wikipedia.org",
+        "value": "bg.wikipedia.org"
+    },
+    {
+        "label": "Bulgarian Wikibooks",
+        "description": "bg.wikibooks.org",
+        "value": "bg.wikibooks.org"
+    },
+    {
+        "label": "Bulgarian Wikinews",
+        "description": "bg.wikinews.org",
+        "value": "bg.wikinews.org"
+    },
+    {
+        "label": "Bulgarian Wikiquote",
+        "description": "bg.wikiquote.org",
+        "value": "bg.wikiquote.org"
+    },
+    {
+        "label": "Bulgarian Wikisource",
+        "description": "bg.wikisource.org",
+        "value": "bg.wikisource.org"
+    },
+    {
+        "label": "Bulgarian Wiktionary",
+        "description": "bg.wiktionary.org",
+        "value": "bg.wiktionary.org"
+    },
+    {
+        "label": "Bhojpuri Wikipedia",
+        "description": "bh.wikipedia.org",
+        "value": "bh.wikipedia.org"
+    },
+    {
+        "label": "Bhojpuri Wiktionary",
+        "description": "bh.wiktionary.org",
+        "value": "bh.wiktionary.org"
+    },
+    {
+        "label": "Bislama Wikipedia",
+        "description": "bi.wikipedia.org",
+        "value": "bi.wikipedia.org"
+    },
+    {
+        "label": "Bislama Wikibooks",
+        "description": "bi.wikibooks.org",
+        "value": "bi.wikibooks.org"
+    },
+    {
+        "label": "Bislama Wiktionary",
+        "description": "bi.wiktionary.org",
+        "value": "bi.wiktionary.org"
+    },
+    {
+        "label": "Banjar Wikipedia",
+        "description": "bjn.wikipedia.org",
+        "value": "bjn.wikipedia.org"
+    },
+    {
+        "label": "Banjar Wikiquote",
+        "description": "bjn.wikiquote.org",
+        "value": "bjn.wikiquote.org"
+    },
+    {
+        "label": "Banjar Wiktionary",
+        "description": "bjn.wiktionary.org",
+        "value": "bjn.wiktionary.org"
+    },
+    {
+        "label": "Pa'O Wikipedia",
+        "description": "blk.wikipedia.org",
+        "value": "blk.wikipedia.org"
+    },
+    {
+        "label": "Pa'O Wiktionary",
+        "description": "blk.wiktionary.org",
+        "value": "blk.wiktionary.org"
+    },
+    {
+        "label": "Bambara Wikipedia",
+        "description": "bm.wikipedia.org",
+        "value": "bm.wikipedia.org"
+    },
+    {
+        "label": "Bambara Wikibooks",
+        "description": "bm.wikibooks.org",
+        "value": "bm.wikibooks.org"
+    },
+    {
+        "label": "Bambara Wikiquote",
+        "description": "bm.wikiquote.org",
+        "value": "bm.wikiquote.org"
+    },
+    {
+        "label": "Bambara Wiktionary",
+        "description": "bm.wiktionary.org",
+        "value": "bm.wiktionary.org"
+    },
+    {
+        "label": "Bengali Wikipedia",
+        "description": "bn.wikipedia.org",
+        "value": "bn.wikipedia.org"
+    },
+    {
+        "label": "Bengali Wikibooks",
+        "description": "bn.wikibooks.org",
+        "value": "bn.wikibooks.org"
+    },
+    {
+        "label": "Bengali Wikiquote",
+        "description": "bn.wikiquote.org",
+        "value": "bn.wikiquote.org"
+    },
+    {
+        "label": "Bengali Wikisource",
+        "description": "bn.wikisource.org",
+        "value": "bn.wikisource.org"
+    },
+    {
+        "label": "Bengali Wikivoyage",
+        "description": "bn.wikivoyage.org",
+        "value": "bn.wikivoyage.org"
+    },
+    {
+        "label": "Bengali Wiktionary",
+        "description": "bn.wiktionary.org",
+        "value": "bn.wiktionary.org"
+    },
+    {
+        "label": "Tibetan Wikipedia",
+        "description": "bo.wikipedia.org",
+        "value": "bo.wikipedia.org"
+    },
+    {
+        "label": "Tibetan Wikibooks",
+        "description": "bo.wikibooks.org",
+        "value": "bo.wikibooks.org"
+    },
+    {
+        "label": "Tibetan Wiktionary",
+        "description": "bo.wiktionary.org",
+        "value": "bo.wiktionary.org"
+    },
+    {
+        "label": "Bishnupriya Wikipedia",
+        "description": "bpy.wikipedia.org",
+        "value": "bpy.wikipedia.org"
+    },
+    {
+        "label": "Breton Wikipedia",
+        "description": "br.wikipedia.org",
+        "value": "br.wikipedia.org"
+    },
+    {
+        "label": "Breton Wikiquote",
+        "description": "br.wikiquote.org",
+        "value": "br.wikiquote.org"
+    },
+    {
+        "label": "Breton Wikisource",
+        "description": "br.wikisource.org",
+        "value": "br.wikisource.org"
+    },
+    {
+        "label": "Breton Wiktionary",
+        "description": "br.wiktionary.org",
+        "value": "br.wiktionary.org"
+    },
+    {
+        "label": "Bosnian Wikipedia",
+        "description": "bs.wikipedia.org",
+        "value": "bs.wikipedia.org"
+    },
+    {
+        "label": "Bosnian Wikibooks",
+        "description": "bs.wikibooks.org",
+        "value": "bs.wikibooks.org"
+    },
+    {
+        "label": "Bosnian Wikinews",
+        "description": "bs.wikinews.org",
+        "value": "bs.wikinews.org"
+    },
+    {
+        "label": "Bosnian Wikiquote",
+        "description": "bs.wikiquote.org",
+        "value": "bs.wikiquote.org"
+    },
+    {
+        "label": "Bosnian Wikisource",
+        "description": "bs.wikisource.org",
+        "value": "bs.wikisource.org"
+    },
+    {
+        "label": "Bosnian Wiktionary",
+        "description": "bs.wiktionary.org",
+        "value": "bs.wiktionary.org"
+    },
+    {
+        "label": "Mandailing Wiktionary",
+        "description": "btm.wiktionary.org",
+        "value": "btm.wiktionary.org"
+    },
+    {
+        "label": "Buginese Wikipedia",
+        "description": "bug.wikipedia.org",
+        "value": "bug.wikipedia.org"
+    },
+    {
+        "label": "Buryat Wikipedia",
+        "description": "bxr.wikipedia.org",
+        "value": "bxr.wikipedia.org"
+    },
+    {
+        "label": "Catalan Wikipedia",
+        "description": "ca.wikipedia.org",
+        "value": "ca.wikipedia.org"
+    },
+    {
+        "label": "Catalan Wikibooks",
+        "description": "ca.wikibooks.org",
+        "value": "ca.wikibooks.org"
+    },
+    {
+        "label": "Catalan Wikinews",
+        "description": "ca.wikinews.org",
+        "value": "ca.wikinews.org"
+    },
+    {
+        "label": "Catalan Wikiquote",
+        "description": "ca.wikiquote.org",
+        "value": "ca.wikiquote.org"
+    },
+    {
+        "label": "Catalan Wikisource",
+        "description": "ca.wikisource.org",
+        "value": "ca.wikisource.org"
+    },
+    {
+        "label": "Catalan Wiktionary",
+        "description": "ca.wiktionary.org",
+        "value": "ca.wiktionary.org"
+    },
+    {
+        "label": "Chavacano de Zamboanga Wikipedia",
+        "description": "cbk-zam.wikipedia.org",
+        "value": "cbk-zam.wikipedia.org"
+    },
+    {
+        "label": "Min Dong Chinese Wikipedia",
+        "description": "cdo.wikipedia.org",
+        "value": "cdo.wikipedia.org"
+    },
+    {
+        "label": "Cebuano Wikipedia",
+        "description": "ceb.wikipedia.org",
+        "value": "ceb.wikipedia.org"
+    },
+    {
+        "label": "Chechen Wikipedia",
+        "description": "ce.wikipedia.org",
+        "value": "ce.wikipedia.org"
+    },
+    {
+        "label": "Choctaw Wikipedia",
+        "description": "cho.wikipedia.org",
+        "value": "cho.wikipedia.org"
+    },
+    {
+        "label": "Cherokee Wikipedia",
+        "description": "chr.wikipedia.org",
+        "value": "chr.wikipedia.org"
+    },
+    {
+        "label": "Cherokee Wiktionary",
+        "description": "chr.wiktionary.org",
+        "value": "chr.wiktionary.org"
+    },
+    {
+        "label": "Chamorro Wikipedia",
+        "description": "ch.wikipedia.org",
+        "value": "ch.wikipedia.org"
+    },
+    {
+        "label": "Chamorro Wikibooks",
+        "description": "ch.wikibooks.org",
+        "value": "ch.wikibooks.org"
+    },
+    {
+        "label": "Chamorro Wiktionary",
+        "description": "ch.wiktionary.org",
+        "value": "ch.wiktionary.org"
+    },
+    {
+        "label": "Cheyenne Wikipedia",
+        "description": "chy.wikipedia.org",
+        "value": "chy.wikipedia.org"
+    },
+    {
+        "label": "Central Kurdish Wikipedia",
+        "description": "ckb.wikipedia.org",
+        "value": "ckb.wikipedia.org"
+    },
+    {
+        "label": "Central Kurdish Wiktionary",
+        "description": "ckb.wiktionary.org",
+        "value": "ckb.wiktionary.org"
+    },
+    {
+        "label": "Wikimedia Commons",
+        "description": "commons.wikimedia.org",
+        "value": "commons.wikimedia.org"
+    },
+    {
+        "label": "Corsican Wikipedia",
+        "description": "co.wikipedia.org",
+        "value": "co.wikipedia.org"
+    },
+    {
+        "label": "Corsican Wikibooks",
+        "description": "co.wikibooks.org",
+        "value": "co.wikibooks.org"
+    },
+    {
+        "label": "Corsican Wikiquote",
+        "description": "co.wikiquote.org",
+        "value": "co.wikiquote.org"
+    },
+    {
+        "label": "Corsican Wiktionary",
+        "description": "co.wiktionary.org",
+        "value": "co.wiktionary.org"
+    },
+    {
+        "label": "Crimean Tatar Wikipedia",
+        "description": "crh.wikipedia.org",
+        "value": "crh.wikipedia.org"
+    },
+    {
+        "label": "Cree Wikipedia",
+        "description": "cr.wikipedia.org",
+        "value": "cr.wikipedia.org"
+    },
+    {
+        "label": "Cree Wikiquote",
+        "description": "cr.wikiquote.org",
+        "value": "cr.wikiquote.org"
+    },
+    {
+        "label": "Cree Wiktionary",
+        "description": "cr.wiktionary.org",
+        "value": "cr.wiktionary.org"
+    },
+    {
+        "label": "Kashubian Wikipedia",
+        "description": "csb.wikipedia.org",
+        "value": "csb.wikipedia.org"
+    },
+    {
+        "label": "Kashubian Wiktionary",
+        "description": "csb.wiktionary.org",
+        "value": "csb.wiktionary.org"
+    },
+    {
+        "label": "Czech Wikipedia",
+        "description": "cs.wikipedia.org",
+        "value": "cs.wikipedia.org"
+    },
+    {
+        "label": "Czech Wikibooks",
+        "description": "cs.wikibooks.org",
+        "value": "cs.wikibooks.org"
+    },
+    {
+        "label": "Czech Wikinews",
+        "description": "cs.wikinews.org",
+        "value": "cs.wikinews.org"
+    },
+    {
+        "label": "Czech Wikiquote",
+        "description": "cs.wikiquote.org",
+        "value": "cs.wikiquote.org"
+    },
+    {
+        "label": "Czech Wikisource",
+        "description": "cs.wikisource.org",
+        "value": "cs.wikisource.org"
+    },
+    {
+        "label": "Czech Wikiversity",
+        "description": "cs.wikiversity.org",
+        "value": "cs.wikiversity.org"
+    },
+    {
+        "label": "Czech Wiktionary",
+        "description": "cs.wiktionary.org",
+        "value": "cs.wiktionary.org"
+    },
+    {
+        "label": "Church Slavic Wikipedia",
+        "description": "cu.wikipedia.org",
+        "value": "cu.wikipedia.org"
+    },
+    {
+        "label": "Chuvash Wikipedia",
+        "description": "cv.wikipedia.org",
+        "value": "cv.wikipedia.org"
+    },
+    {
+        "label": "Chuvash Wikibooks",
+        "description": "cv.wikibooks.org",
+        "value": "cv.wikibooks.org"
+    },
+    {
+        "label": "Welsh Wikipedia",
+        "description": "cy.wikipedia.org",
+        "value": "cy.wikipedia.org"
+    },
+    {
+        "label": "Welsh Wikibooks",
+        "description": "cy.wikibooks.org",
+        "value": "cy.wikibooks.org"
+    },
+    {
+        "label": "Welsh Wikiquote",
+        "description": "cy.wikiquote.org",
+        "value": "cy.wikiquote.org"
+    },
+    {
+        "label": "Welsh Wikisource",
+        "description": "cy.wikisource.org",
+        "value": "cy.wikisource.org"
+    },
+    {
+        "label": "Welsh Wiktionary",
+        "description": "cy.wiktionary.org",
+        "value": "cy.wiktionary.org"
+    },
+    {
+        "label": "Dagbani Wikipedia",
+        "description": "dag.wikipedia.org",
+        "value": "dag.wikipedia.org"
+    },
+    {
+        "label": "Danish Wikipedia",
+        "description": "da.wikipedia.org",
+        "value": "da.wikipedia.org"
+    },
+    {
+        "label": "Danish Wikibooks",
+        "description": "da.wikibooks.org",
+        "value": "da.wikibooks.org"
+    },
+    {
+        "label": "Danish Wikiquote",
+        "description": "da.wikiquote.org",
+        "value": "da.wikiquote.org"
+    },
+    {
+        "label": "Danish Wikisource",
+        "description": "da.wikisource.org",
+        "value": "da.wikisource.org"
+    },
+    {
+        "label": "Danish Wiktionary",
+        "description": "da.wiktionary.org",
+        "value": "da.wiktionary.org"
+    },
+    {
+        "label": "German Wikipedia",
+        "description": "de.wikipedia.org",
+        "value": "de.wikipedia.org"
+    },
+    {
+        "label": "German Wikibooks",
+        "description": "de.wikibooks.org",
+        "value": "de.wikibooks.org"
+    },
+    {
+        "label": "German Wikinews",
+        "description": "de.wikinews.org",
+        "value": "de.wikinews.org"
+    },
+    {
+        "label": "German Wikiquote",
+        "description": "de.wikiquote.org",
+        "value": "de.wikiquote.org"
+    },
+    {
+        "label": "German Wikisource",
+        "description": "de.wikisource.org",
+        "value": "de.wikisource.org"
+    },
+    {
+        "label": "German Wikiversity",
+        "description": "de.wikiversity.org",
+        "value": "de.wikiversity.org"
+    },
+    {
+        "label": "German Wikivoyage",
+        "description": "de.wikivoyage.org",
+        "value": "de.wikivoyage.org"
+    },
+    {
+        "label": "German Wiktionary",
+        "description": "de.wiktionary.org",
+        "value": "de.wiktionary.org"
+    },
+    {
+        "label": "Dagaare Wikipedia",
+        "description": "dga.wikipedia.org",
+        "value": "dga.wikipedia.org"
+    },
+    {
+        "label": "Dinka Wikipedia",
+        "description": "din.wikipedia.org",
+        "value": "din.wikipedia.org"
+    },
+    {
+        "label": "Zazaki Wikipedia",
+        "description": "diq.wikipedia.org",
+        "value": "diq.wikipedia.org"
+    },
+    {
+        "label": "Zazaki Wiktionary",
+        "description": "diq.wiktionary.org",
+        "value": "diq.wiktionary.org"
+    },
+    {
+        "label": "Lower Sorbian Wikipedia",
+        "description": "dsb.wikipedia.org",
+        "value": "dsb.wikipedia.org"
+    },
+    {
+        "label": "Doteli Wikipedia",
+        "description": "dty.wikipedia.org",
+        "value": "dty.wikipedia.org"
+    },
+    {
+        "label": "Divehi Wikipedia",
+        "description": "dv.wikipedia.org",
+        "value": "dv.wikipedia.org"
+    },
+    {
+        "label": "Divehi Wiktionary",
+        "description": "dv.wiktionary.org",
+        "value": "dv.wiktionary.org"
+    },
+    {
+        "label": "Dzongkha Wikipedia",
+        "description": "dz.wikipedia.org",
+        "value": "dz.wikipedia.org"
+    },
+    {
+        "label": "Dzongkha Wiktionary",
+        "description": "dz.wiktionary.org",
+        "value": "dz.wiktionary.org"
+    },
+    {
+        "label": "Ewe Wikipedia",
+        "description": "ee.wikipedia.org",
+        "value": "ee.wikipedia.org"
+    },
+    {
+        "label": "Greek Wikipedia",
+        "description": "el.wikipedia.org",
+        "value": "el.wikipedia.org"
+    },
+    {
+        "label": "Greek Wikibooks",
+        "description": "el.wikibooks.org",
+        "value": "el.wikibooks.org"
+    },
+    {
+        "label": "Greek Wikinews",
+        "description": "el.wikinews.org",
+        "value": "el.wikinews.org"
+    },
+    {
+        "label": "Greek Wikiquote",
+        "description": "el.wikiquote.org",
+        "value": "el.wikiquote.org"
+    },
+    {
+        "label": "Greek Wikisource",
+        "description": "el.wikisource.org",
+        "value": "el.wikisource.org"
+    },
+    {
+        "label": "Greek Wikiversity",
+        "description": "el.wikiversity.org",
+        "value": "el.wikiversity.org"
+    },
+    {
+        "label": "Greek Wikivoyage",
+        "description": "el.wikivoyage.org",
+        "value": "el.wikivoyage.org"
+    },
+    {
+        "label": "Greek Wiktionary",
+        "description": "el.wiktionary.org",
+        "value": "el.wiktionary.org"
+    },
+    {
+        "label": "Emiliano-Romagnolo Wikipedia",
+        "description": "eml.wikipedia.org",
+        "value": "eml.wikipedia.org"
+    },
+    {
+        "label": "Esperanto Wikipedia",
+        "description": "eo.wikipedia.org",
+        "value": "eo.wikipedia.org"
+    },
+    {
+        "label": "Esperanto Wikibooks",
+        "description": "eo.wikibooks.org",
+        "value": "eo.wikibooks.org"
+    },
+    {
+        "label": "Esperanto Wikinews",
+        "description": "eo.wikinews.org",
+        "value": "eo.wikinews.org"
+    },
+    {
+        "label": "Esperanto Wikiquote",
+        "description": "eo.wikiquote.org",
+        "value": "eo.wikiquote.org"
+    },
+    {
+        "label": "Esperanto Wikisource",
+        "description": "eo.wikisource.org",
+        "value": "eo.wikisource.org"
+    },
+    {
+        "label": "Esperanto Wikivoyage",
+        "description": "eo.wikivoyage.org",
+        "value": "eo.wikivoyage.org"
+    },
+    {
+        "label": "Esperanto Wiktionary",
+        "description": "eo.wiktionary.org",
+        "value": "eo.wiktionary.org"
+    },
+    {
+        "label": "Spanish Wikipedia",
+        "description": "es.wikipedia.org",
+        "value": "es.wikipedia.org"
+    },
+    {
+        "label": "Spanish Wikibooks",
+        "description": "es.wikibooks.org",
+        "value": "es.wikibooks.org"
+    },
+    {
+        "label": "Spanish Wikinews",
+        "description": "es.wikinews.org",
+        "value": "es.wikinews.org"
+    },
+    {
+        "label": "Spanish Wikiquote",
+        "description": "es.wikiquote.org",
+        "value": "es.wikiquote.org"
+    },
+    {
+        "label": "Spanish Wikisource",
+        "description": "es.wikisource.org",
+        "value": "es.wikisource.org"
+    },
+    {
+        "label": "Spanish Wikiversity",
+        "description": "es.wikiversity.org",
+        "value": "es.wikiversity.org"
+    },
+    {
+        "label": "Spanish Wikivoyage",
+        "description": "es.wikivoyage.org",
+        "value": "es.wikivoyage.org"
+    },
+    {
+        "label": "Spanish Wiktionary",
+        "description": "es.wiktionary.org",
+        "value": "es.wiktionary.org"
+    },
+    {
+        "label": "Estonian Wikipedia",
+        "description": "et.wikipedia.org",
+        "value": "et.wikipedia.org"
+    },
+    {
+        "label": "Estonian Wikibooks",
+        "description": "et.wikibooks.org",
+        "value": "et.wikibooks.org"
+    },
+    {
+        "label": "Estonian Wikiquote",
+        "description": "et.wikiquote.org",
+        "value": "et.wikiquote.org"
+    },
+    {
+        "label": "Estonian Wikisource",
+        "description": "et.wikisource.org",
+        "value": "et.wikisource.org"
+    },
+    {
+        "label": "Estonian Wiktionary",
+        "description": "et.wiktionary.org",
+        "value": "et.wiktionary.org"
+    },
+    {
+        "label": "Basque Wikipedia",
+        "description": "eu.wikipedia.org",
+        "value": "eu.wikipedia.org"
+    },
+    {
+        "label": "Basque Wikibooks",
+        "description": "eu.wikibooks.org",
+        "value": "eu.wikibooks.org"
+    },
+    {
+        "label": "Basque Wikiquote",
+        "description": "eu.wikiquote.org",
+        "value": "eu.wikiquote.org"
+    },
+    {
+        "label": "Basque Wikisource",
+        "description": "eu.wikisource.org",
+        "value": "eu.wikisource.org"
+    },
+    {
+        "label": "Basque Wiktionary",
+        "description": "eu.wiktionary.org",
+        "value": "eu.wiktionary.org"
+    },
+    {
+        "label": "Extremaduran Wikipedia",
+        "description": "ext.wikipedia.org",
+        "value": "ext.wikipedia.org"
+    },
+    {
+        "label": "Fante Wikipedia",
+        "description": "fat.wikipedia.org",
+        "value": "fat.wikipedia.org"
+    },
+    {
+        "label": "Persian Wikipedia",
+        "description": "fa.wikipedia.org",
+        "value": "fa.wikipedia.org"
+    },
+    {
+        "label": "Persian Wikibooks",
+        "description": "fa.wikibooks.org",
+        "value": "fa.wikibooks.org"
+    },
+    {
+        "label": "Persian Wikinews",
+        "description": "fa.wikinews.org",
+        "value": "fa.wikinews.org"
+    },
+    {
+        "label": "Persian Wikiquote",
+        "description": "fa.wikiquote.org",
+        "value": "fa.wikiquote.org"
+    },
+    {
+        "label": "Persian Wikisource",
+        "description": "fa.wikisource.org",
+        "value": "fa.wikisource.org"
+    },
+    {
+        "label": "Persian Wikivoyage",
+        "description": "fa.wikivoyage.org",
+        "value": "fa.wikivoyage.org"
+    },
+    {
+        "label": "Persian Wiktionary",
+        "description": "fa.wiktionary.org",
+        "value": "fa.wiktionary.org"
+    },
+    {
+        "label": "Fulah Wikipedia",
+        "description": "ff.wikipedia.org",
+        "value": "ff.wikipedia.org"
+    },
+    {
+        "label": "Võro Wikipedia",
+        "description": "fiu-vro.wikipedia.org",
+        "value": "fiu-vro.wikipedia.org"
+    },
+    {
+        "label": "Finnish Wikipedia",
+        "description": "fi.wikipedia.org",
+        "value": "fi.wikipedia.org"
+    },
+    {
+        "label": "Finnish Wikibooks",
+        "description": "fi.wikibooks.org",
+        "value": "fi.wikibooks.org"
+    },
+    {
+        "label": "Finnish Wikinews",
+        "description": "fi.wikinews.org",
+        "value": "fi.wikinews.org"
+    },
+    {
+        "label": "Finnish Wikiquote",
+        "description": "fi.wikiquote.org",
+        "value": "fi.wikiquote.org"
+    },
+    {
+        "label": "Finnish Wikisource",
+        "description": "fi.wikisource.org",
+        "value": "fi.wikisource.org"
+    },
+    {
+        "label": "Finnish Wikiversity",
+        "description": "fi.wikiversity.org",
+        "value": "fi.wikiversity.org"
+    },
+    {
+        "label": "Finnish Wikivoyage",
+        "description": "fi.wikivoyage.org",
+        "value": "fi.wikivoyage.org"
+    },
+    {
+        "label": "Finnish Wiktionary",
+        "description": "fi.wiktionary.org",
+        "value": "fi.wiktionary.org"
+    },
+    {
+        "label": "Fijian Wikipedia",
+        "description": "fj.wikipedia.org",
+        "value": "fj.wikipedia.org"
+    },
+    {
+        "label": "Fijian Wiktionary",
+        "description": "fj.wiktionary.org",
+        "value": "fj.wiktionary.org"
+    },
+    {
+        "label": "Fon Wikipedia",
+        "description": "fon.wikipedia.org",
+        "value": "fon.wikipedia.org"
+    },
+    {
+        "label": "Wikimedia Foundation Governance",
+        "description": "foundation.wikimedia.org",
+        "value": "foundation.wikimedia.org"
+    },
+    {
+        "label": "Faroese Wikipedia",
+        "description": "fo.wikipedia.org",
+        "value": "fo.wikipedia.org"
+    },
+    {
+        "label": "Faroese Wikisource",
+        "description": "fo.wikisource.org",
+        "value": "fo.wikisource.org"
+    },
+    {
+        "label": "Faroese Wiktionary",
+        "description": "fo.wiktionary.org",
+        "value": "fo.wiktionary.org"
+    },
+    {
+        "label": "Arpitan Wikipedia",
+        "description": "frp.wikipedia.org",
+        "value": "frp.wikipedia.org"
+    },
+    {
+        "label": "Northern Frisian Wikipedia",
+        "description": "frr.wikipedia.org",
+        "value": "frr.wikipedia.org"
+    },
+    {
+        "label": "French Wikipedia",
+        "description": "fr.wikipedia.org",
+        "value": "fr.wikipedia.org"
+    },
+    {
+        "label": "French Wikibooks",
+        "description": "fr.wikibooks.org",
+        "value": "fr.wikibooks.org"
+    },
+    {
+        "label": "French Wikinews",
+        "description": "fr.wikinews.org",
+        "value": "fr.wikinews.org"
+    },
+    {
+        "label": "French Wikiquote",
+        "description": "fr.wikiquote.org",
+        "value": "fr.wikiquote.org"
+    },
+    {
+        "label": "French Wikisource",
+        "description": "fr.wikisource.org",
+        "value": "fr.wikisource.org"
+    },
+    {
+        "label": "French Wikiversity",
+        "description": "fr.wikiversity.org",
+        "value": "fr.wikiversity.org"
+    },
+    {
+        "label": "French Wikivoyage",
+        "description": "fr.wikivoyage.org",
+        "value": "fr.wikivoyage.org"
+    },
+    {
+        "label": "French Wiktionary",
+        "description": "fr.wiktionary.org",
+        "value": "fr.wiktionary.org"
+    },
+    {
+        "label": "Friulian Wikipedia",
+        "description": "fur.wikipedia.org",
+        "value": "fur.wikipedia.org"
+    },
+    {
+        "label": "Western Frisian Wikipedia",
+        "description": "fy.wikipedia.org",
+        "value": "fy.wikipedia.org"
+    },
+    {
+        "label": "Western Frisian Wikibooks",
+        "description": "fy.wikibooks.org",
+        "value": "fy.wikibooks.org"
+    },
+    {
+        "label": "Western Frisian Wiktionary",
+        "description": "fy.wiktionary.org",
+        "value": "fy.wiktionary.org"
+    },
+    {
+        "label": "Gagauz Wikipedia",
+        "description": "gag.wikipedia.org",
+        "value": "gag.wikipedia.org"
+    },
+    {
+        "label": "Gan Chinese Wikipedia",
+        "description": "gan.wikipedia.org",
+        "value": "gan.wikipedia.org"
+    },
+    {
+        "label": "Irish Wikipedia",
+        "description": "ga.wikipedia.org",
+        "value": "ga.wikipedia.org"
+    },
+    {
+        "label": "Irish Wikibooks",
+        "description": "ga.wikibooks.org",
+        "value": "ga.wikibooks.org"
+    },
+    {
+        "label": "Irish Wikiquote",
+        "description": "ga.wikiquote.org",
+        "value": "ga.wikiquote.org"
+    },
+    {
+        "label": "Irish Wiktionary",
+        "description": "ga.wiktionary.org",
+        "value": "ga.wiktionary.org"
+    },
+    {
+        "label": "Guianan Creole Wikipedia",
+        "description": "gcr.wikipedia.org",
+        "value": "gcr.wikipedia.org"
+    },
+    {
+        "label": "Scottish Gaelic Wikipedia",
+        "description": "gd.wikipedia.org",
+        "value": "gd.wikipedia.org"
+    },
+    {
+        "label": "Scottish Gaelic Wiktionary",
+        "description": "gd.wiktionary.org",
+        "value": "gd.wiktionary.org"
+    },
+    {
+        "label": "Gilaki Wikipedia",
+        "description": "glk.wikipedia.org",
+        "value": "glk.wikipedia.org"
+    },
+    {
+        "label": "Galician Wikipedia",
+        "description": "gl.wikipedia.org",
+        "value": "gl.wikipedia.org"
+    },
+    {
+        "label": "Galician Wikibooks",
+        "description": "gl.wikibooks.org",
+        "value": "gl.wikibooks.org"
+    },
+    {
+        "label": "Galician Wikiquote",
+        "description": "gl.wikiquote.org",
+        "value": "gl.wikiquote.org"
+    },
+    {
+        "label": "Galician Wikisource",
+        "description": "gl.wikisource.org",
+        "value": "gl.wikisource.org"
+    },
+    {
+        "label": "Galician Wiktionary",
+        "description": "gl.wiktionary.org",
+        "value": "gl.wiktionary.org"
+    },
+    {
+        "label": "Guarani Wikipedia",
+        "description": "gn.wikipedia.org",
+        "value": "gn.wikipedia.org"
+    },
+    {
+        "label": "Guarani Wikibooks",
+        "description": "gn.wikibooks.org",
+        "value": "gn.wikibooks.org"
+    },
+    {
+        "label": "Guarani Wiktionary",
+        "description": "gn.wiktionary.org",
+        "value": "gn.wiktionary.org"
+    },
+    {
+        "label": "Goan Konkani Wikipedia",
+        "description": "gom.wikipedia.org",
+        "value": "gom.wikipedia.org"
+    },
+    {
+        "label": "Goan Konkani Wiktionary",
+        "description": "gom.wiktionary.org",
+        "value": "gom.wiktionary.org"
+    },
+    {
+        "label": "Gorontalo Wikipedia",
+        "description": "gor.wikipedia.org",
+        "value": "gor.wikipedia.org"
+    },
+    {
+        "label": "Gorontalo Wiktionary",
+        "description": "gor.wiktionary.org",
+        "value": "gor.wiktionary.org"
+    },
+    {
+        "label": "Gothic Wikipedia",
+        "description": "got.wikipedia.org",
+        "value": "got.wikipedia.org"
+    },
+    {
+        "label": "Gothic Wikibooks",
+        "description": "got.wikibooks.org",
+        "value": "got.wikibooks.org"
+    },
+    {
+        "label": "Ghanaian Pidgin Wikipedia",
+        "description": "gpe.wikipedia.org",
+        "value": "gpe.wikipedia.org"
+    },
+    {
+        "label": "Wayuu Wikipedia",
+        "description": "guc.wikipedia.org",
+        "value": "guc.wikipedia.org"
+    },
+    {
+        "label": "Farefare Wikipedia",
+        "description": "gur.wikipedia.org",
+        "value": "gur.wikipedia.org"
+    },
+    {
+        "label": "Gujarati Wikipedia",
+        "description": "gu.wikipedia.org",
+        "value": "gu.wikipedia.org"
+    },
+    {
+        "label": "Gujarati Wikibooks",
+        "description": "gu.wikibooks.org",
+        "value": "gu.wikibooks.org"
+    },
+    {
+        "label": "Gujarati Wikiquote",
+        "description": "gu.wikiquote.org",
+        "value": "gu.wikiquote.org"
+    },
+    {
+        "label": "Gujarati Wikisource",
+        "description": "gu.wikisource.org",
+        "value": "gu.wikisource.org"
+    },
+    {
+        "label": "Gujarati Wiktionary",
+        "description": "gu.wiktionary.org",
+        "value": "gu.wiktionary.org"
+    },
+    {
+        "label": "Gun Wikipedia",
+        "description": "guw.wikipedia.org",
+        "value": "guw.wikipedia.org"
+    },
+    {
+        "label": "Gun Wikinews",
+        "description": "guw.wikinews.org",
+        "value": "guw.wikinews.org"
+    },
+    {
+        "label": "Gun Wikiquote",
+        "description": "guw.wikiquote.org",
+        "value": "guw.wikiquote.org"
+    },
+    {
+        "label": "Gun Wiktionary",
+        "description": "guw.wiktionary.org",
+        "value": "guw.wiktionary.org"
+    },
+    {
+        "label": "Manx Wikipedia",
+        "description": "gv.wikipedia.org",
+        "value": "gv.wikipedia.org"
+    },
+    {
+        "label": "Manx Wiktionary",
+        "description": "gv.wiktionary.org",
+        "value": "gv.wiktionary.org"
+    },
+    {
+        "label": "Hakka Chinese Wikipedia",
+        "description": "hak.wikipedia.org",
+        "value": "hak.wikipedia.org"
+    },
+    {
+        "label": "Hausa Wikipedia",
+        "description": "ha.wikipedia.org",
+        "value": "ha.wikipedia.org"
+    },
+    {
+        "label": "Hausa Wiktionary",
+        "description": "ha.wiktionary.org",
+        "value": "ha.wiktionary.org"
+    },
+    {
+        "label": "Hawaiian Wikipedia",
+        "description": "haw.wikipedia.org",
+        "value": "haw.wikipedia.org"
+    },
+    {
+        "label": "Hebrew Wikipedia",
+        "description": "he.wikipedia.org",
+        "value": "he.wikipedia.org"
+    },
+    {
+        "label": "Hebrew Wikibooks",
+        "description": "he.wikibooks.org",
+        "value": "he.wikibooks.org"
+    },
+    {
+        "label": "Hebrew Wikinews",
+        "description": "he.wikinews.org",
+        "value": "he.wikinews.org"
+    },
+    {
+        "label": "Hebrew Wikiquote",
+        "description": "he.wikiquote.org",
+        "value": "he.wikiquote.org"
+    },
+    {
+        "label": "Hebrew Wikisource",
+        "description": "he.wikisource.org",
+        "value": "he.wikisource.org"
+    },
+    {
+        "label": "Hebrew Wikivoyage",
+        "description": "he.wikivoyage.org",
+        "value": "he.wikivoyage.org"
+    },
+    {
+        "label": "Hebrew Wiktionary",
+        "description": "he.wiktionary.org",
+        "value": "he.wiktionary.org"
+    },
+    {
+        "label": "Hindi Wikipedia",
+        "description": "hi.wikipedia.org",
+        "value": "hi.wikipedia.org"
+    },
+    {
+        "label": "Hindi Wikibooks",
+        "description": "hi.wikibooks.org",
+        "value": "hi.wikibooks.org"
+    },
+    {
+        "label": "Hindi Wikiquote",
+        "description": "hi.wikiquote.org",
+        "value": "hi.wikiquote.org"
+    },
+    {
+        "label": "Hindi Wikisource",
+        "description": "hi.wikisource.org",
+        "value": "hi.wikisource.org"
+    },
+    {
+        "label": "Hindi Wikiversity",
+        "description": "hi.wikiversity.org",
+        "value": "hi.wikiversity.org"
+    },
+    {
+        "label": "Hindi Wikivoyage",
+        "description": "hi.wikivoyage.org",
+        "value": "hi.wikivoyage.org"
+    },
+    {
+        "label": "Hindi Wiktionary",
+        "description": "hi.wiktionary.org",
+        "value": "hi.wiktionary.org"
+    },
+    {
+        "label": "Fiji Hindi Wikipedia",
+        "description": "hif.wikipedia.org",
+        "value": "hif.wikipedia.org"
+    },
+    {
+        "label": "Fiji Hindi Wiktionary",
+        "description": "hif.wiktionary.org",
+        "value": "hif.wiktionary.org"
+    },
+    {
+        "label": "Hiri Motu Wikipedia",
+        "description": "ho.wikipedia.org",
+        "value": "ho.wikipedia.org"
+    },
+    {
+        "label": "Croatian Wikipedia",
+        "description": "hr.wikipedia.org",
+        "value": "hr.wikipedia.org"
+    },
+    {
+        "label": "Croatian Wikibooks",
+        "description": "hr.wikibooks.org",
+        "value": "hr.wikibooks.org"
+    },
+    {
+        "label": "Croatian Wikiquote",
+        "description": "hr.wikiquote.org",
+        "value": "hr.wikiquote.org"
+    },
+    {
+        "label": "Croatian Wikisource",
+        "description": "hr.wikisource.org",
+        "value": "hr.wikisource.org"
+    },
+    {
+        "label": "Croatian Wiktionary",
+        "description": "hr.wiktionary.org",
+        "value": "hr.wiktionary.org"
+    },
+    {
+        "label": "Upper Sorbian Wikipedia",
+        "description": "hsb.wikipedia.org",
+        "value": "hsb.wikipedia.org"
+    },
+    {
+        "label": "Upper Sorbian Wiktionary",
+        "description": "hsb.wiktionary.org",
+        "value": "hsb.wiktionary.org"
+    },
+    {
+        "label": "Haitian Creole Wikipedia",
+        "description": "ht.wikipedia.org",
+        "value": "ht.wikipedia.org"
+    },
+    {
+        "label": "Haitian Creole Wikisource",
+        "description": "ht.wikisource.org",
+        "value": "ht.wikisource.org"
+    },
+    {
+        "label": "Hungarian Wikipedia",
+        "description": "hu.wikipedia.org",
+        "value": "hu.wikipedia.org"
+    },
+    {
+        "label": "Hungarian Wikibooks",
+        "description": "hu.wikibooks.org",
+        "value": "hu.wikibooks.org"
+    },
+    {
+        "label": "Hungarian Wikinews",
+        "description": "hu.wikinews.org",
+        "value": "hu.wikinews.org"
+    },
+    {
+        "label": "Hungarian Wikiquote",
+        "description": "hu.wikiquote.org",
+        "value": "hu.wikiquote.org"
+    },
+    {
+        "label": "Hungarian Wikisource",
+        "description": "hu.wikisource.org",
+        "value": "hu.wikisource.org"
+    },
+    {
+        "label": "Hungarian Wiktionary",
+        "description": "hu.wiktionary.org",
+        "value": "hu.wiktionary.org"
+    },
+    {
+        "label": "Armenian Wikipedia",
+        "description": "hy.wikipedia.org",
+        "value": "hy.wikipedia.org"
+    },
+    {
+        "label": "Armenian Wikibooks",
+        "description": "hy.wikibooks.org",
+        "value": "hy.wikibooks.org"
+    },
+    {
+        "label": "Armenian Wikiquote",
+        "description": "hy.wikiquote.org",
+        "value": "hy.wikiquote.org"
+    },
+    {
+        "label": "Armenian Wikisource",
+        "description": "hy.wikisource.org",
+        "value": "hy.wikisource.org"
+    },
+    {
+        "label": "Armenian Wiktionary",
+        "description": "hy.wiktionary.org",
+        "value": "hy.wiktionary.org"
+    },
+    {
+        "label": "Western Armenian Wikipedia",
+        "description": "hyw.wikipedia.org",
+        "value": "hyw.wikipedia.org"
+    },
+    {
+        "label": "Herero Wikipedia",
+        "description": "hz.wikipedia.org",
+        "value": "hz.wikipedia.org"
+    },
+    {
+        "label": "Interlingua Wikipedia",
+        "description": "ia.wikipedia.org",
+        "value": "ia.wikipedia.org"
+    },
+    {
+        "label": "Interlingua Wikibooks",
+        "description": "ia.wikibooks.org",
+        "value": "ia.wikibooks.org"
+    },
+    {
+        "label": "Interlingua Wiktionary",
+        "description": "ia.wiktionary.org",
+        "value": "ia.wiktionary.org"
+    },
+    {
+        "label": "Indonesian Wikipedia",
+        "description": "id.wikipedia.org",
+        "value": "id.wikipedia.org"
+    },
+    {
+        "label": "Indonesian Wikibooks",
+        "description": "id.wikibooks.org",
+        "value": "id.wikibooks.org"
+    },
+    {
+        "label": "Indonesian Wikiquote",
+        "description": "id.wikiquote.org",
+        "value": "id.wikiquote.org"
+    },
+    {
+        "label": "Indonesian Wikisource",
+        "description": "id.wikisource.org",
+        "value": "id.wikisource.org"
+    },
+    {
+        "label": "Indonesian Wiktionary",
+        "description": "id.wiktionary.org",
+        "value": "id.wiktionary.org"
+    },
+    {
+        "label": "Interlingue Wikipedia",
+        "description": "ie.wikipedia.org",
+        "value": "ie.wikipedia.org"
+    },
+    {
+        "label": "Interlingue Wikibooks",
+        "description": "ie.wikibooks.org",
+        "value": "ie.wikibooks.org"
+    },
+    {
+        "label": "Interlingue Wiktionary",
+        "description": "ie.wiktionary.org",
+        "value": "ie.wiktionary.org"
+    },
+    {
+        "label": "Igbo Wikipedia",
+        "description": "ig.wikipedia.org",
+        "value": "ig.wikipedia.org"
+    },
+    {
+        "label": "Igbo Wikiquote",
+        "description": "ig.wikiquote.org",
+        "value": "ig.wikiquote.org"
+    },
+    {
+        "label": "Igbo Wiktionary",
+        "description": "ig.wiktionary.org",
+        "value": "ig.wiktionary.org"
+    },
+    {
+        "label": "Sichuan Yi Wikipedia",
+        "description": "ii.wikipedia.org",
+        "value": "ii.wikipedia.org"
+    },
+    {
+        "label": "Inupiaq Wikipedia",
+        "description": "ik.wikipedia.org",
+        "value": "ik.wikipedia.org"
+    },
+    {
+        "label": "Inupiaq Wiktionary",
+        "description": "ik.wiktionary.org",
+        "value": "ik.wiktionary.org"
+    },
+    {
+        "label": "Iloko Wikipedia",
+        "description": "ilo.wikipedia.org",
+        "value": "ilo.wikipedia.org"
+    },
+    {
+        "label": "Ingush Wikipedia",
+        "description": "inh.wikipedia.org",
+        "value": "inh.wikipedia.org"
+    },
+    {
+        "label": "Ido Wikipedia",
+        "description": "io.wikipedia.org",
+        "value": "io.wikipedia.org"
+    },
+    {
+        "label": "Ido Wiktionary",
+        "description": "io.wiktionary.org",
+        "value": "io.wiktionary.org"
+    },
+    {
+        "label": "Icelandic Wikipedia",
+        "description": "is.wikipedia.org",
+        "value": "is.wikipedia.org"
+    },
+    {
+        "label": "Icelandic Wikibooks",
+        "description": "is.wikibooks.org",
+        "value": "is.wikibooks.org"
+    },
+    {
+        "label": "Icelandic Wikiquote",
+        "description": "is.wikiquote.org",
+        "value": "is.wikiquote.org"
+    },
+    {
+        "label": "Icelandic Wikisource",
+        "description": "is.wikisource.org",
+        "value": "is.wikisource.org"
+    },
+    {
+        "label": "Icelandic Wiktionary",
+        "description": "is.wiktionary.org",
+        "value": "is.wiktionary.org"
+    },
+    {
+        "label": "Italian Wikipedia",
+        "description": "it.wikipedia.org",
+        "value": "it.wikipedia.org"
+    },
+    {
+        "label": "Italian Wikibooks",
+        "description": "it.wikibooks.org",
+        "value": "it.wikibooks.org"
+    },
+    {
+        "label": "Italian Wikinews",
+        "description": "it.wikinews.org",
+        "value": "it.wikinews.org"
+    },
+    {
+        "label": "Italian Wikiquote",
+        "description": "it.wikiquote.org",
+        "value": "it.wikiquote.org"
+    },
+    {
+        "label": "Italian Wikisource",
+        "description": "it.wikisource.org",
+        "value": "it.wikisource.org"
+    },
+    {
+        "label": "Italian Wikiversity",
+        "description": "it.wikiversity.org",
+        "value": "it.wikiversity.org"
+    },
+    {
+        "label": "Italian Wikivoyage",
+        "description": "it.wikivoyage.org",
+        "value": "it.wikivoyage.org"
+    },
+    {
+        "label": "Italian Wiktionary",
+        "description": "it.wiktionary.org",
+        "value": "it.wiktionary.org"
+    },
+    {
+        "label": "Inuktitut Wikipedia",
+        "description": "iu.wikipedia.org",
+        "value": "iu.wikipedia.org"
+    },
+    {
+        "label": "Inuktitut Wiktionary",
+        "description": "iu.wiktionary.org",
+        "value": "iu.wiktionary.org"
+    },
+    {
+        "label": "Jamaican Patois Wikipedia",
+        "description": "jam.wikipedia.org",
+        "value": "jam.wikipedia.org"
+    },
+    {
+        "label": "Japanese Wikipedia",
+        "description": "ja.wikipedia.org",
+        "value": "ja.wikipedia.org"
+    },
+    {
+        "label": "Japanese Wikibooks",
+        "description": "ja.wikibooks.org",
+        "value": "ja.wikibooks.org"
+    },
+    {
+        "label": "Japanese Wikinews",
+        "description": "ja.wikinews.org",
+        "value": "ja.wikinews.org"
+    },
+    {
+        "label": "Japanese Wikiquote",
+        "description": "ja.wikiquote.org",
+        "value": "ja.wikiquote.org"
+    },
+    {
+        "label": "Japanese Wikisource",
+        "description": "ja.wikisource.org",
+        "value": "ja.wikisource.org"
+    },
+    {
+        "label": "Japanese Wikiversity",
+        "description": "ja.wikiversity.org",
+        "value": "ja.wikiversity.org"
+    },
+    {
+        "label": "Japanese Wikivoyage",
+        "description": "ja.wikivoyage.org",
+        "value": "ja.wikivoyage.org"
+    },
+    {
+        "label": "Japanese Wiktionary",
+        "description": "ja.wiktionary.org",
+        "value": "ja.wiktionary.org"
+    },
+    {
+        "label": "Lojban Wikipedia",
+        "description": "jbo.wikipedia.org",
+        "value": "jbo.wikipedia.org"
+    },
+    {
+        "label": "Lojban Wiktionary",
+        "description": "jbo.wiktionary.org",
+        "value": "jbo.wiktionary.org"
+    },
+    {
+        "label": "Javanese Wikipedia",
+        "description": "jv.wikipedia.org",
+        "value": "jv.wikipedia.org"
+    },
+    {
+        "label": "Javanese Wikisource",
+        "description": "jv.wikisource.org",
+        "value": "jv.wikisource.org"
+    },
+    {
+        "label": "Javanese Wiktionary",
+        "description": "jv.wiktionary.org",
+        "value": "jv.wiktionary.org"
+    },
+    {
+        "label": "Kara-Kalpak Wikipedia",
+        "description": "kaa.wikipedia.org",
+        "value": "kaa.wikipedia.org"
+    },
+    {
+        "label": "Kabyle Wikipedia",
+        "description": "kab.wikipedia.org",
+        "value": "kab.wikipedia.org"
+    },
+    {
+        "label": "Georgian Wikipedia",
+        "description": "ka.wikipedia.org",
+        "value": "ka.wikipedia.org"
+    },
+    {
+        "label": "Georgian Wikibooks",
+        "description": "ka.wikibooks.org",
+        "value": "ka.wikibooks.org"
+    },
+    {
+        "label": "Georgian Wikiquote",
+        "description": "ka.wikiquote.org",
+        "value": "ka.wikiquote.org"
+    },
+    {
+        "label": "Georgian Wiktionary",
+        "description": "ka.wiktionary.org",
+        "value": "ka.wiktionary.org"
+    },
+    {
+        "label": "Kabardian Wikipedia",
+        "description": "kbd.wikipedia.org",
+        "value": "kbd.wikipedia.org"
+    },
+    {
+        "label": "Kabardian Wiktionary",
+        "description": "kbd.wiktionary.org",
+        "value": "kbd.wiktionary.org"
+    },
+    {
+        "label": "Kabiyè Wikipedia",
+        "description": "kbp.wikipedia.org",
+        "value": "kbp.wikipedia.org"
+    },
+    {
+        "label": "Tyap Wikipedia",
+        "description": "kcg.wikipedia.org",
+        "value": "kcg.wikipedia.org"
+    },
+    {
+        "label": "Tyap Wiktionary",
+        "description": "kcg.wiktionary.org",
+        "value": "kcg.wiktionary.org"
+    },
+    {
+        "label": "Kongo Wikipedia",
+        "description": "kg.wikipedia.org",
+        "value": "kg.wikipedia.org"
+    },
+    {
+        "label": "Kikuyu Wikipedia",
+        "description": "ki.wikipedia.org",
+        "value": "ki.wikipedia.org"
+    },
+    {
+        "label": "Kuanyama Wikipedia",
+        "description": "kj.wikipedia.org",
+        "value": "kj.wikipedia.org"
+    },
+    {
+        "label": "Kazakh Wikipedia",
+        "description": "kk.wikipedia.org",
+        "value": "kk.wikipedia.org"
+    },
+    {
+        "label": "Kazakh Wikibooks",
+        "description": "kk.wikibooks.org",
+        "value": "kk.wikibooks.org"
+    },
+    {
+        "label": "Kazakh Wikiquote",
+        "description": "kk.wikiquote.org",
+        "value": "kk.wikiquote.org"
+    },
+    {
+        "label": "Kazakh Wiktionary",
+        "description": "kk.wiktionary.org",
+        "value": "kk.wiktionary.org"
+    },
+    {
+        "label": "Kalaallisut Wikipedia",
+        "description": "kl.wikipedia.org",
+        "value": "kl.wikipedia.org"
+    },
+    {
+        "label": "Kalaallisut Wiktionary",
+        "description": "kl.wiktionary.org",
+        "value": "kl.wiktionary.org"
+    },
+    {
+        "label": "Khmer Wikipedia",
+        "description": "km.wikipedia.org",
+        "value": "km.wikipedia.org"
+    },
+    {
+        "label": "Khmer Wikibooks",
+        "description": "km.wikibooks.org",
+        "value": "km.wikibooks.org"
+    },
+    {
+        "label": "Khmer Wiktionary",
+        "description": "km.wiktionary.org",
+        "value": "km.wiktionary.org"
+    },
+    {
+        "label": "Kannada Wikipedia",
+        "description": "kn.wikipedia.org",
+        "value": "kn.wikipedia.org"
+    },
+    {
+        "label": "Kannada Wikibooks",
+        "description": "kn.wikibooks.org",
+        "value": "kn.wikibooks.org"
+    },
+    {
+        "label": "Kannada Wikiquote",
+        "description": "kn.wikiquote.org",
+        "value": "kn.wikiquote.org"
+    },
+    {
+        "label": "Kannada Wikisource",
+        "description": "kn.wikisource.org",
+        "value": "kn.wikisource.org"
+    },
+    {
+        "label": "Kannada Wiktionary",
+        "description": "kn.wiktionary.org",
+        "value": "kn.wiktionary.org"
+    },
+    {
+        "label": "Komi-Permyak Wikipedia",
+        "description": "koi.wikipedia.org",
+        "value": "koi.wikipedia.org"
+    },
+    {
+        "label": "Korean Wikipedia",
+        "description": "ko.wikipedia.org",
+        "value": "ko.wikipedia.org"
+    },
+    {
+        "label": "Korean Wikibooks",
+        "description": "ko.wikibooks.org",
+        "value": "ko.wikibooks.org"
+    },
+    {
+        "label": "Korean Wikinews",
+        "description": "ko.wikinews.org",
+        "value": "ko.wikinews.org"
+    },
+    {
+        "label": "Korean Wikiquote",
+        "description": "ko.wikiquote.org",
+        "value": "ko.wikiquote.org"
+    },
+    {
+        "label": "Korean Wikisource",
+        "description": "ko.wikisource.org",
+        "value": "ko.wikisource.org"
+    },
+    {
+        "label": "Korean Wikiversity",
+        "description": "ko.wikiversity.org",
+        "value": "ko.wikiversity.org"
+    },
+    {
+        "label": "Korean Wiktionary",
+        "description": "ko.wiktionary.org",
+        "value": "ko.wiktionary.org"
+    },
+    {
+        "label": "Karachay-Balkar Wikipedia",
+        "description": "krc.wikipedia.org",
+        "value": "krc.wikipedia.org"
+    },
+    {
+        "label": "Kanuri Wikipedia",
+        "description": "kr.wikipedia.org",
+        "value": "kr.wikipedia.org"
+    },
+    {
+        "label": "Kanuri Wikiquote",
+        "description": "kr.wikiquote.org",
+        "value": "kr.wikiquote.org"
+    },
+    {
+        "label": "Colognian Wikipedia",
+        "description": "ksh.wikipedia.org",
+        "value": "ksh.wikipedia.org"
+    },
+    {
+        "label": "Kashmiri Wikipedia",
+        "description": "ks.wikipedia.org",
+        "value": "ks.wikipedia.org"
+    },
+    {
+        "label": "Kashmiri Wikibooks",
+        "description": "ks.wikibooks.org",
+        "value": "ks.wikibooks.org"
+    },
+    {
+        "label": "Kashmiri Wikiquote",
+        "description": "ks.wikiquote.org",
+        "value": "ks.wikiquote.org"
+    },
+    {
+        "label": "Kashmiri Wiktionary",
+        "description": "ks.wiktionary.org",
+        "value": "ks.wiktionary.org"
+    },
+    {
+        "label": "Kurdish Wikipedia",
+        "description": "ku.wikipedia.org",
+        "value": "ku.wikipedia.org"
+    },
+    {
+        "label": "Kurdish Wikibooks",
+        "description": "ku.wikibooks.org",
+        "value": "ku.wikibooks.org"
+    },
+    {
+        "label": "Kurdish Wikiquote",
+        "description": "ku.wikiquote.org",
+        "value": "ku.wikiquote.org"
+    },
+    {
+        "label": "Kurdish Wiktionary",
+        "description": "ku.wiktionary.org",
+        "value": "ku.wiktionary.org"
+    },
+    {
+        "label": "Komi Wikipedia",
+        "description": "kv.wikipedia.org",
+        "value": "kv.wikipedia.org"
+    },
+    {
+        "label": "Cornish Wikipedia",
+        "description": "kw.wikipedia.org",
+        "value": "kw.wikipedia.org"
+    },
+    {
+        "label": "Cornish Wikiquote",
+        "description": "kw.wikiquote.org",
+        "value": "kw.wikiquote.org"
+    },
+    {
+        "label": "Cornish Wiktionary",
+        "description": "kw.wiktionary.org",
+        "value": "kw.wiktionary.org"
+    },
+    {
+        "label": "Kyrgyz Wikipedia",
+        "description": "ky.wikipedia.org",
+        "value": "ky.wikipedia.org"
+    },
+    {
+        "label": "Kyrgyz Wikibooks",
+        "description": "ky.wikibooks.org",
+        "value": "ky.wikibooks.org"
+    },
+    {
+        "label": "Kyrgyz Wikiquote",
+        "description": "ky.wikiquote.org",
+        "value": "ky.wikiquote.org"
+    },
+    {
+        "label": "Kyrgyz Wiktionary",
+        "description": "ky.wiktionary.org",
+        "value": "ky.wiktionary.org"
+    },
+    {
+        "label": "Wikitech",
+        "description": "wikitech.wikimedia.org",
+        "value": "wikitech.wikimedia.org"
+    },
+    {
+        "label": "Ladino Wikipedia",
+        "description": "lad.wikipedia.org",
+        "value": "lad.wikipedia.org"
+    },
+    {
+        "label": "Latin Wikipedia",
+        "description": "la.wikipedia.org",
+        "value": "la.wikipedia.org"
+    },
+    {
+        "label": "Latin Wikibooks",
+        "description": "la.wikibooks.org",
+        "value": "la.wikibooks.org"
+    },
+    {
+        "label": "Latin Wikiquote",
+        "description": "la.wikiquote.org",
+        "value": "la.wikiquote.org"
+    },
+    {
+        "label": "Latin Wikisource",
+        "description": "la.wikisource.org",
+        "value": "la.wikisource.org"
+    },
+    {
+        "label": "Latin Wiktionary",
+        "description": "la.wiktionary.org",
+        "value": "la.wiktionary.org"
+    },
+    {
+        "label": "Lak Wikipedia",
+        "description": "lbe.wikipedia.org",
+        "value": "lbe.wikipedia.org"
+    },
+    {
+        "label": "Luxembourgish Wikipedia",
+        "description": "lb.wikipedia.org",
+        "value": "lb.wikipedia.org"
+    },
+    {
+        "label": "Luxembourgish Wikibooks",
+        "description": "lb.wikibooks.org",
+        "value": "lb.wikibooks.org"
+    },
+    {
+        "label": "Luxembourgish Wikiquote",
+        "description": "lb.wikiquote.org",
+        "value": "lb.wikiquote.org"
+    },
+    {
+        "label": "Luxembourgish Wiktionary",
+        "description": "lb.wiktionary.org",
+        "value": "lb.wiktionary.org"
+    },
+    {
+        "label": "Lezghian Wikipedia",
+        "description": "lez.wikipedia.org",
+        "value": "lez.wikipedia.org"
+    },
+    {
+        "label": "Lingua Franca Nova Wikipedia",
+        "description": "lfn.wikipedia.org",
+        "value": "lfn.wikipedia.org"
+    },
+    {
+        "label": "Ganda Wikipedia",
+        "description": "lg.wikipedia.org",
+        "value": "lg.wikipedia.org"
+    },
+    {
+        "label": "Ligurian Wikipedia",
+        "description": "lij.wikipedia.org",
+        "value": "lij.wikipedia.org"
+    },
+    {
+        "label": "Ligurian Wikisource",
+        "description": "lij.wikisource.org",
+        "value": "lij.wikisource.org"
+    },
+    {
+        "label": "Limburgish Wikipedia",
+        "description": "li.wikipedia.org",
+        "value": "li.wikipedia.org"
+    },
+    {
+        "label": "Limburgish Wikibooks",
+        "description": "li.wikibooks.org",
+        "value": "li.wikibooks.org"
+    },
+    {
+        "label": "Limburgish Wikinews",
+        "description": "li.wikinews.org",
+        "value": "li.wikinews.org"
+    },
+    {
+        "label": "Limburgish Wikiquote",
+        "description": "li.wikiquote.org",
+        "value": "li.wikiquote.org"
+    },
+    {
+        "label": "Limburgish Wikisource",
+        "description": "li.wikisource.org",
+        "value": "li.wikisource.org"
+    },
+    {
+        "label": "Limburgish Wiktionary",
+        "description": "li.wiktionary.org",
+        "value": "li.wiktionary.org"
+    },
+    {
+        "label": "Ladin Wikipedia",
+        "description": "lld.wikipedia.org",
+        "value": "lld.wikipedia.org"
+    },
+    {
+        "label": "Lombard Wikipedia",
+        "description": "lmo.wikipedia.org",
+        "value": "lmo.wikipedia.org"
+    },
+    {
+        "label": "Lombard Wiktionary",
+        "description": "lmo.wiktionary.org",
+        "value": "lmo.wiktionary.org"
+    },
+    {
+        "label": "Lingala Wikipedia",
+        "description": "ln.wikipedia.org",
+        "value": "ln.wikipedia.org"
+    },
+    {
+        "label": "Lingala Wikibooks",
+        "description": "ln.wikibooks.org",
+        "value": "ln.wikibooks.org"
+    },
+    {
+        "label": "Lingala Wiktionary",
+        "description": "ln.wiktionary.org",
+        "value": "ln.wiktionary.org"
+    },
+    {
+        "label": "Lao Wikipedia",
+        "description": "lo.wikipedia.org",
+        "value": "lo.wikipedia.org"
+    },
+    {
+        "label": "Lao Wiktionary",
+        "description": "lo.wiktionary.org",
+        "value": "lo.wiktionary.org"
+    },
+    {
+        "label": "Northern Luri Wikipedia",
+        "description": "lrc.wikipedia.org",
+        "value": "lrc.wikipedia.org"
+    },
+    {
+        "label": "Latgalian Wikipedia",
+        "description": "ltg.wikipedia.org",
+        "value": "ltg.wikipedia.org"
+    },
+    {
+        "label": "Lithuanian Wikipedia",
+        "description": "lt.wikipedia.org",
+        "value": "lt.wikipedia.org"
+    },
+    {
+        "label": "Lithuanian Wikibooks",
+        "description": "lt.wikibooks.org",
+        "value": "lt.wikibooks.org"
+    },
+    {
+        "label": "Lithuanian Wikiquote",
+        "description": "lt.wikiquote.org",
+        "value": "lt.wikiquote.org"
+    },
+    {
+        "label": "Lithuanian Wikisource",
+        "description": "lt.wikisource.org",
+        "value": "lt.wikisource.org"
+    },
+    {
+        "label": "Lithuanian Wiktionary",
+        "description": "lt.wiktionary.org",
+        "value": "lt.wiktionary.org"
+    },
+    {
+        "label": "Latvian Wikipedia",
+        "description": "lv.wikipedia.org",
+        "value": "lv.wikipedia.org"
+    },
+    {
+        "label": "Latvian Wikibooks",
+        "description": "lv.wikibooks.org",
+        "value": "lv.wikibooks.org"
+    },
+    {
+        "label": "Latvian Wiktionary",
+        "description": "lv.wiktionary.org",
+        "value": "lv.wiktionary.org"
+    },
+    {
+        "label": "Madurese Wikipedia",
+        "description": "mad.wikipedia.org",
+        "value": "mad.wikipedia.org"
+    },
+    {
+        "label": "Maithili Wikipedia",
+        "description": "mai.wikipedia.org",
+        "value": "mai.wikipedia.org"
+    },
+    {
+        "label": "Maithili Wikimedians User Group",
+        "description": "mai.wikimedia.org",
+        "value": "mai.wikimedia.org"
+    },
+    {
+        "label": "Basa Banyumasan Wikipedia",
+        "description": "map-bms.wikipedia.org",
+        "value": "map-bms.wikipedia.org"
+    },
+    {
+        "label": "Moksha Wikipedia",
+        "description": "mdf.wikipedia.org",
+        "value": "mdf.wikipedia.org"
+    },
+    {
+        "label": "MediaWiki",
+        "description": "www.mediawiki.org",
+        "value": "www.mediawiki.org"
+    },
+    {
+        "label": "Meta-Wiki",
+        "description": "meta.wikimedia.org",
+        "value": "meta.wikimedia.org"
+    },
+    {
+        "label": "Malagasy Wikipedia",
+        "description": "mg.wikipedia.org",
+        "value": "mg.wikipedia.org"
+    },
+    {
+        "label": "Malagasy Wikibooks",
+        "description": "mg.wikibooks.org",
+        "value": "mg.wikibooks.org"
+    },
+    {
+        "label": "Malagasy Wiktionary",
+        "description": "mg.wiktionary.org",
+        "value": "mg.wiktionary.org"
+    },
+    {
+        "label": "Eastern Mari Wikipedia",
+        "description": "mhr.wikipedia.org",
+        "value": "mhr.wikipedia.org"
+    },
+    {
+        "label": "Marshallese Wikipedia",
+        "description": "mh.wikipedia.org",
+        "value": "mh.wikipedia.org"
+    },
+    {
+        "label": "Marshallese Wiktionary",
+        "description": "mh.wiktionary.org",
+        "value": "mh.wiktionary.org"
+    },
+    {
+        "label": "Minangkabau Wikipedia",
+        "description": "min.wikipedia.org",
+        "value": "min.wikipedia.org"
+    },
+    {
+        "label": "Minangkabau Wiktionary",
+        "description": "min.wiktionary.org",
+        "value": "min.wiktionary.org"
+    },
+    {
+        "label": "Maori Wikipedia",
+        "description": "mi.wikipedia.org",
+        "value": "mi.wikipedia.org"
+    },
+    {
+        "label": "Maori Wikibooks",
+        "description": "mi.wikibooks.org",
+        "value": "mi.wikibooks.org"
+    },
+    {
+        "label": "Maori Wiktionary",
+        "description": "mi.wiktionary.org",
+        "value": "mi.wiktionary.org"
+    },
+    {
+        "label": "Macedonian Wikipedia",
+        "description": "mk.wikipedia.org",
+        "value": "mk.wikipedia.org"
+    },
+    {
+        "label": "Macedonian Wikibooks",
+        "description": "mk.wikibooks.org",
+        "value": "mk.wikibooks.org"
+    },
+    {
+        "label": "Macedonian Wikisource",
+        "description": "mk.wikisource.org",
+        "value": "mk.wikisource.org"
+    },
+    {
+        "label": "Macedonian Wiktionary",
+        "description": "mk.wiktionary.org",
+        "value": "mk.wiktionary.org"
+    },
+    {
+        "label": "Malayalam Wikipedia",
+        "description": "ml.wikipedia.org",
+        "value": "ml.wikipedia.org"
+    },
+    {
+        "label": "Malayalam Wikibooks",
+        "description": "ml.wikibooks.org",
+        "value": "ml.wikibooks.org"
+    },
+    {
+        "label": "Malayalam Wikiquote",
+        "description": "ml.wikiquote.org",
+        "value": "ml.wikiquote.org"
+    },
+    {
+        "label": "Malayalam Wikisource",
+        "description": "ml.wikisource.org",
+        "value": "ml.wikisource.org"
+    },
+    {
+        "label": "Malayalam Wiktionary",
+        "description": "ml.wiktionary.org",
+        "value": "ml.wiktionary.org"
+    },
+    {
+        "label": "Meitei Wikipedia",
+        "description": "mni.wikipedia.org",
+        "value": "mni.wikipedia.org"
+    },
+    {
+        "label": "Meetei Wiktionary",
+        "description": "mni.wiktionary.org",
+        "value": "mni.wiktionary.org"
+    },
+    {
+        "label": "Mongolian Wikipedia",
+        "description": "mn.wikipedia.org",
+        "value": "mn.wikipedia.org"
+    },
+    {
+        "label": "Mongolian Wikibooks",
+        "description": "mn.wikibooks.org",
+        "value": "mn.wikibooks.org"
+    },
+    {
+        "label": "Mongolian Wiktionary",
+        "description": "mn.wiktionary.org",
+        "value": "mn.wiktionary.org"
+    },
+    {
+        "label": "Mon Wikipedia",
+        "description": "mnw.wikipedia.org",
+        "value": "mnw.wikipedia.org"
+    },
+    {
+        "label": "Mon Wiktionary",
+        "description": "mnw.wiktionary.org",
+        "value": "mnw.wiktionary.org"
+    },
+    {
+        "label": "Western Mari Wikipedia",
+        "description": "mrj.wikipedia.org",
+        "value": "mrj.wikipedia.org"
+    },
+    {
+        "label": "Marathi Wikipedia",
+        "description": "mr.wikipedia.org",
+        "value": "mr.wikipedia.org"
+    },
+    {
+        "label": "Marathi Wikibooks",
+        "description": "mr.wikibooks.org",
+        "value": "mr.wikibooks.org"
+    },
+    {
+        "label": "Marathi Wikiquote",
+        "description": "mr.wikiquote.org",
+        "value": "mr.wikiquote.org"
+    },
+    {
+        "label": "Marathi Wikisource",
+        "description": "mr.wikisource.org",
+        "value": "mr.wikisource.org"
+    },
+    {
+        "label": "Marathi Wiktionary",
+        "description": "mr.wiktionary.org",
+        "value": "mr.wiktionary.org"
+    },
+    {
+        "label": "Malay Wikipedia",
+        "description": "ms.wikipedia.org",
+        "value": "ms.wikipedia.org"
+    },
+    {
+        "label": "Malay Wikibooks",
+        "description": "ms.wikibooks.org",
+        "value": "ms.wikibooks.org"
+    },
+    {
+        "label": "Malay Wiktionary",
+        "description": "ms.wiktionary.org",
+        "value": "ms.wiktionary.org"
+    },
+    {
+        "label": "Maltese Wikipedia",
+        "description": "mt.wikipedia.org",
+        "value": "mt.wikipedia.org"
+    },
+    {
+        "label": "Maltese Wiktionary",
+        "description": "mt.wiktionary.org",
+        "value": "mt.wiktionary.org"
+    },
+    {
+        "label": "Creek Wikipedia",
+        "description": "mus.wikipedia.org",
+        "value": "mus.wikipedia.org"
+    },
+    {
+        "label": "Mirandese Wikipedia",
+        "description": "mwl.wikipedia.org",
+        "value": "mwl.wikipedia.org"
+    },
+    {
+        "label": "Erzya Wikipedia",
+        "description": "myv.wikipedia.org",
+        "value": "myv.wikipedia.org"
+    },
+    {
+        "label": "Burmese Wikipedia",
+        "description": "my.wikipedia.org",
+        "value": "my.wikipedia.org"
+    },
+    {
+        "label": "Burmese Wikibooks",
+        "description": "my.wikibooks.org",
+        "value": "my.wikibooks.org"
+    },
+    {
+        "label": "Burmese Wiktionary",
+        "description": "my.wiktionary.org",
+        "value": "my.wiktionary.org"
+    },
+    {
+        "label": "Mazanderani Wikipedia",
+        "description": "mzn.wikipedia.org",
+        "value": "mzn.wikipedia.org"
+    },
+    {
+        "label": "Nāhuatl Wikipedia",
+        "description": "nah.wikipedia.org",
+        "value": "nah.wikipedia.org"
+    },
+    {
+        "label": "Nāhuatl Wikibooks",
+        "description": "nah.wikibooks.org",
+        "value": "nah.wikibooks.org"
+    },
+    {
+        "label": "Nāhuatl Wiktionary",
+        "description": "nah.wiktionary.org",
+        "value": "nah.wiktionary.org"
+    },
+    {
+        "label": "Neapolitan Wikipedia",
+        "description": "nap.wikipedia.org",
+        "value": "nap.wikipedia.org"
+    },
+    {
+        "label": "Neapolitan Wikisource",
+        "description": "nap.wikisource.org",
+        "value": "nap.wikisource.org"
+    },
+    {
+        "label": "Nauru Wikipedia",
+        "description": "na.wikipedia.org",
+        "value": "na.wikipedia.org"
+    },
+    {
+        "label": "Nauru Wikibooks",
+        "description": "na.wikibooks.org",
+        "value": "na.wikibooks.org"
+    },
+    {
+        "label": "Nauru Wikiquote",
+        "description": "na.wikiquote.org",
+        "value": "na.wikiquote.org"
+    },
+    {
+        "label": "Nauru Wiktionary",
+        "description": "na.wiktionary.org",
+        "value": "na.wiktionary.org"
+    },
+    {
+        "label": "Low Saxon Wikipedia",
+        "description": "nds-nl.wikipedia.org",
+        "value": "nds-nl.wikipedia.org"
+    },
+    {
+        "label": "Low German Wikipedia",
+        "description": "nds.wikipedia.org",
+        "value": "nds.wikipedia.org"
+    },
+    {
+        "label": "Low German Wikibooks",
+        "description": "nds.wikibooks.org",
+        "value": "nds.wikibooks.org"
+    },
+    {
+        "label": "Low German Wikiquote",
+        "description": "nds.wikiquote.org",
+        "value": "nds.wikiquote.org"
+    },
+    {
+        "label": "Low German Wiktionary",
+        "description": "nds.wiktionary.org",
+        "value": "nds.wiktionary.org"
+    },
+    {
+        "label": "Nepali Wikipedia",
+        "description": "ne.wikipedia.org",
+        "value": "ne.wikipedia.org"
+    },
+    {
+        "label": "Nepali Wikibooks",
+        "description": "ne.wikibooks.org",
+        "value": "ne.wikibooks.org"
+    },
+    {
+        "label": "Nepali Wiktionary",
+        "description": "ne.wiktionary.org",
+        "value": "ne.wiktionary.org"
+    },
+    {
+        "label": "Newari Wikipedia",
+        "description": "new.wikipedia.org",
+        "value": "new.wikipedia.org"
+    },
+    {
+        "label": "Ndonga Wikipedia",
+        "description": "ng.wikipedia.org",
+        "value": "ng.wikipedia.org"
+    },
+    {
+        "label": "Nias Wikipedia",
+        "description": "nia.wikipedia.org",
+        "value": "nia.wikipedia.org"
+    },
+    {
+        "label": "Nias Wiktionary",
+        "description": "nia.wiktionary.org",
+        "value": "nia.wiktionary.org"
+    },
+    {
+        "label": "Dutch Wikipedia",
+        "description": "nl.wikipedia.org",
+        "value": "nl.wikipedia.org"
+    },
+    {
+        "label": "Dutch Wikibooks",
+        "description": "nl.wikibooks.org",
+        "value": "nl.wikibooks.org"
+    },
+    {
+        "label": "Dutch Wikinews",
+        "description": "nl.wikinews.org",
+        "value": "nl.wikinews.org"
+    },
+    {
+        "label": "Dutch Wikiquote",
+        "description": "nl.wikiquote.org",
+        "value": "nl.wikiquote.org"
+    },
+    {
+        "label": "Dutch Wikisource",
+        "description": "nl.wikisource.org",
+        "value": "nl.wikisource.org"
+    },
+    {
+        "label": "Dutch Wikivoyage",
+        "description": "nl.wikivoyage.org",
+        "value": "nl.wikivoyage.org"
+    },
+    {
+        "label": "Dutch Wiktionary",
+        "description": "nl.wiktionary.org",
+        "value": "nl.wiktionary.org"
+    },
+    {
+        "label": "Norwegian Nynorsk Wikipedia",
+        "description": "nn.wikipedia.org",
+        "value": "nn.wikipedia.org"
+    },
+    {
+        "label": "Norwegian Nynorsk Wikiquote",
+        "description": "nn.wikiquote.org",
+        "value": "nn.wikiquote.org"
+    },
+    {
+        "label": "Norwegian Nynorsk Wiktionary",
+        "description": "nn.wiktionary.org",
+        "value": "nn.wiktionary.org"
+    },
+    {
+        "label": "Nostalgia Wikipedia",
+        "description": "nostalgia.wikipedia.org",
+        "value": "nostalgia.wikipedia.org"
+    },
+    {
+        "label": "Novial Wikipedia",
+        "description": "nov.wikipedia.org",
+        "value": "nov.wikipedia.org"
+    },
+    {
+        "label": "Norwegian Bokmål Wikipedia",
+        "description": "no.wikipedia.org",
+        "value": "no.wikipedia.org"
+    },
+    {
+        "label": "Norwegian Wikibooks",
+        "description": "no.wikibooks.org",
+        "value": "no.wikibooks.org"
+    },
+    {
+        "label": "Norwegian Wikinews",
+        "description": "no.wikinews.org",
+        "value": "no.wikinews.org"
+    },
+    {
+        "label": "Norwegian Bokmål Wikiquote",
+        "description": "no.wikiquote.org",
+        "value": "no.wikiquote.org"
+    },
+    {
+        "label": "Norwegian Wikisource",
+        "description": "no.wikisource.org",
+        "value": "no.wikisource.org"
+    },
+    {
+        "label": "Norwegian Bokmål Wiktionary",
+        "description": "no.wiktionary.org",
+        "value": "no.wiktionary.org"
+    },
+    {
+        "label": "N'Ko Wikipedia",
+        "description": "nqo.wikipedia.org",
+        "value": "nqo.wikipedia.org"
+    },
+    {
+        "label": "Nouormand Wikipedia",
+        "description": "nrm.wikipedia.org",
+        "value": "nrm.wikipedia.org"
+    },
+    {
+        "label": "Northern Sotho Wikipedia",
+        "description": "nso.wikipedia.org",
+        "value": "nso.wikipedia.org"
+    },
+    {
+        "label": "Navajo Wikipedia",
+        "description": "nv.wikipedia.org",
+        "value": "nv.wikipedia.org"
+    },
+    {
+        "label": "Nyanja Wikipedia",
+        "description": "ny.wikipedia.org",
+        "value": "ny.wikipedia.org"
+    },
+    {
+        "label": "Occitan Wikipedia",
+        "description": "oc.wikipedia.org",
+        "value": "oc.wikipedia.org"
+    },
+    {
+        "label": "Occitan Wikibooks",
+        "description": "oc.wikibooks.org",
+        "value": "oc.wikibooks.org"
+    },
+    {
+        "label": "Occitan Wiktionary",
+        "description": "oc.wiktionary.org",
+        "value": "oc.wiktionary.org"
+    },
+    {
+        "label": "Livvi-Karelian Wikipedia",
+        "description": "olo.wikipedia.org",
+        "value": "olo.wikipedia.org"
+    },
+    {
+        "label": "Oromo Wikipedia",
+        "description": "om.wikipedia.org",
+        "value": "om.wikipedia.org"
+    },
+    {
+        "label": "Oromo Wiktionary",
+        "description": "om.wiktionary.org",
+        "value": "om.wiktionary.org"
+    },
+    {
+        "label": "Oriya Wikipedia",
+        "description": "or.wikipedia.org",
+        "value": "or.wikipedia.org"
+    },
+    {
+        "label": "Oriya Wikisource",
+        "description": "or.wikisource.org",
+        "value": "or.wikisource.org"
+    },
+    {
+        "label": "Oriya Wiktionary",
+        "description": "or.wiktionary.org",
+        "value": "or.wiktionary.org"
+    },
+    {
+        "label": "Ossetic Wikipedia",
+        "description": "os.wikipedia.org",
+        "value": "os.wikipedia.org"
+    },
+    {
+        "label": "Pangasinan Wikipedia",
+        "description": "pag.wikipedia.org",
+        "value": "pag.wikipedia.org"
+    },
+    {
+        "label": "Pampanga Wikipedia",
+        "description": "pam.wikipedia.org",
+        "value": "pam.wikipedia.org"
+    },
+    {
+        "label": "Papiamento Wikipedia",
+        "description": "pap.wikipedia.org",
+        "value": "pap.wikipedia.org"
+    },
+    {
+        "label": "Punjabi Wikipedia",
+        "description": "pa.wikipedia.org",
+        "value": "pa.wikipedia.org"
+    },
+    {
+        "label": "Punjabi Wikibooks",
+        "description": "pa.wikibooks.org",
+        "value": "pa.wikibooks.org"
+    },
+    {
+        "label": "Punjabi Wikisource",
+        "description": "pa.wikisource.org",
+        "value": "pa.wikisource.org"
+    },
+    {
+        "label": "Punjabi Wiktionary",
+        "description": "pa.wiktionary.org",
+        "value": "pa.wiktionary.org"
+    },
+    {
+        "label": "Picard Wikipedia",
+        "description": "pcd.wikipedia.org",
+        "value": "pcd.wikipedia.org"
+    },
+    {
+        "label": "Nigerian Pidgin Wikipedia",
+        "description": "pcm.wikipedia.org",
+        "value": "pcm.wikipedia.org"
+    },
+    {
+        "label": "Pennsylvania German Wikipedia",
+        "description": "pdc.wikipedia.org",
+        "value": "pdc.wikipedia.org"
+    },
+    {
+        "label": "Palatine German Wikipedia",
+        "description": "pfl.wikipedia.org",
+        "value": "pfl.wikipedia.org"
+    },
+    {
+        "label": "Norfuk / Pitkern Wikipedia",
+        "description": "pih.wikipedia.org",
+        "value": "pih.wikipedia.org"
+    },
+    {
+        "label": "Pali Wikipedia",
+        "description": "pi.wikipedia.org",
+        "value": "pi.wikipedia.org"
+    },
+    {
+        "label": "Pali Wiktionary",
+        "description": "pi.wiktionary.org",
+        "value": "pi.wiktionary.org"
+    },
+    {
+        "label": "Polish Wikipedia",
+        "description": "pl.wikipedia.org",
+        "value": "pl.wikipedia.org"
+    },
+    {
+        "label": "Polish Wikibooks",
+        "description": "pl.wikibooks.org",
+        "value": "pl.wikibooks.org"
+    },
+    {
+        "label": "Polish Wikinews",
+        "description": "pl.wikinews.org",
+        "value": "pl.wikinews.org"
+    },
+    {
+        "label": "Polish Wikiquote",
+        "description": "pl.wikiquote.org",
+        "value": "pl.wikiquote.org"
+    },
+    {
+        "label": "Polish Wikisource",
+        "description": "pl.wikisource.org",
+        "value": "pl.wikisource.org"
+    },
+    {
+        "label": "Polish Wikivoyage",
+        "description": "pl.wikivoyage.org",
+        "value": "pl.wikivoyage.org"
+    },
+    {
+        "label": "Polish Wiktionary",
+        "description": "pl.wiktionary.org",
+        "value": "pl.wiktionary.org"
+    },
+    {
+        "label": "Piedmontese Wikipedia",
+        "description": "pms.wikipedia.org",
+        "value": "pms.wikipedia.org"
+    },
+    {
+        "label": "Piedmontese Wikisource",
+        "description": "pms.wikisource.org",
+        "value": "pms.wikisource.org"
+    },
+    {
+        "label": "Western Punjabi Wikipedia",
+        "description": "pnb.wikipedia.org",
+        "value": "pnb.wikipedia.org"
+    },
+    {
+        "label": "Western Punjabi Wiktionary",
+        "description": "pnb.wiktionary.org",
+        "value": "pnb.wiktionary.org"
+    },
+    {
+        "label": "Pontic Wikipedia",
+        "description": "pnt.wikipedia.org",
+        "value": "pnt.wikipedia.org"
+    },
+    {
+        "label": "Pashto Wikipedia",
+        "description": "ps.wikipedia.org",
+        "value": "ps.wikipedia.org"
+    },
+    {
+        "label": "Pashto Wikibooks",
+        "description": "ps.wikibooks.org",
+        "value": "ps.wikibooks.org"
+    },
+    {
+        "label": "Pashto Wikivoyage",
+        "description": "ps.wikivoyage.org",
+        "value": "ps.wikivoyage.org"
+    },
+    {
+        "label": "Pashto Wiktionary",
+        "description": "ps.wiktionary.org",
+        "value": "ps.wiktionary.org"
+    },
+    {
+        "label": "Portuguese Wikipedia",
+        "description": "pt.wikipedia.org",
+        "value": "pt.wikipedia.org"
+    },
+    {
+        "label": "Portuguese Wikibooks",
+        "description": "pt.wikibooks.org",
+        "value": "pt.wikibooks.org"
+    },
+    {
+        "label": "Portuguese Wikinews",
+        "description": "pt.wikinews.org",
+        "value": "pt.wikinews.org"
+    },
+    {
+        "label": "Portuguese Wikiquote",
+        "description": "pt.wikiquote.org",
+        "value": "pt.wikiquote.org"
+    },
+    {
+        "label": "Portuguese Wikisource",
+        "description": "pt.wikisource.org",
+        "value": "pt.wikisource.org"
+    },
+    {
+        "label": "Portuguese Wikiversity",
+        "description": "pt.wikiversity.org",
+        "value": "pt.wikiversity.org"
+    },
+    {
+        "label": "Portuguese Wikivoyage",
+        "description": "pt.wikivoyage.org",
+        "value": "pt.wikivoyage.org"
+    },
+    {
+        "label": "Portuguese Wiktionary",
+        "description": "pt.wiktionary.org",
+        "value": "pt.wiktionary.org"
+    },
+    {
+        "label": "Paiwan Wikipedia",
+        "description": "pwn.wikipedia.org",
+        "value": "pwn.wikipedia.org"
+    },
+    {
+        "label": "Quechua Wikipedia",
+        "description": "qu.wikipedia.org",
+        "value": "qu.wikipedia.org"
+    },
+    {
+        "label": "Quechua Wikibooks",
+        "description": "qu.wikibooks.org",
+        "value": "qu.wikibooks.org"
+    },
+    {
+        "label": "Quechua Wikiquote",
+        "description": "qu.wikiquote.org",
+        "value": "qu.wikiquote.org"
+    },
+    {
+        "label": "Quechua Wiktionary",
+        "description": "qu.wiktionary.org",
+        "value": "qu.wiktionary.org"
+    },
+    {
+        "label": "Romansh Wikipedia",
+        "description": "rm.wikipedia.org",
+        "value": "rm.wikipedia.org"
+    },
+    {
+        "label": "Romansh Wikibooks",
+        "description": "rm.wikibooks.org",
+        "value": "rm.wikibooks.org"
+    },
+    {
+        "label": "Romansh Wiktionary",
+        "description": "rm.wiktionary.org",
+        "value": "rm.wiktionary.org"
+    },
+    {
+        "label": "Romani Wikipedia",
+        "description": "rmy.wikipedia.org",
+        "value": "rmy.wikipedia.org"
+    },
+    {
+        "label": "Rundi Wikipedia",
+        "description": "rn.wikipedia.org",
+        "value": "rn.wikipedia.org"
+    },
+    {
+        "label": "Rundi Wiktionary",
+        "description": "rn.wiktionary.org",
+        "value": "rn.wiktionary.org"
+    },
+    {
+        "label": "Aromanian Wikipedia",
+        "description": "roa-rup.wikipedia.org",
+        "value": "roa-rup.wikipedia.org"
+    },
+    {
+        "label": "Aromanian Wiktionary",
+        "description": "roa-rup.wiktionary.org",
+        "value": "roa-rup.wiktionary.org"
+    },
+    {
+        "label": "Tarandíne Wikipedia",
+        "description": "roa-tara.wikipedia.org",
+        "value": "roa-tara.wikipedia.org"
+    },
+    {
+        "label": "Romanian Wikipedia",
+        "description": "ro.wikipedia.org",
+        "value": "ro.wikipedia.org"
+    },
+    {
+        "label": "Romanian Wikibooks",
+        "description": "ro.wikibooks.org",
+        "value": "ro.wikibooks.org"
+    },
+    {
+        "label": "Romanian Wikinews",
+        "description": "ro.wikinews.org",
+        "value": "ro.wikinews.org"
+    },
+    {
+        "label": "Romanian Wikiquote",
+        "description": "ro.wikiquote.org",
+        "value": "ro.wikiquote.org"
+    },
+    {
+        "label": "Romanian Wikisource",
+        "description": "ro.wikisource.org",
+        "value": "ro.wikisource.org"
+    },
+    {
+        "label": "Romanian Wikivoyage",
+        "description": "ro.wikivoyage.org",
+        "value": "ro.wikivoyage.org"
+    },
+    {
+        "label": "Romanian Wiktionary",
+        "description": "ro.wiktionary.org",
+        "value": "ro.wiktionary.org"
+    },
+    {
+        "label": "Rusyn Wikipedia",
+        "description": "rue.wikipedia.org",
+        "value": "rue.wikipedia.org"
+    },
+    {
+        "label": "Russian Wikipedia",
+        "description": "ru.wikipedia.org",
+        "value": "ru.wikipedia.org"
+    },
+    {
+        "label": "Russian Wikibooks",
+        "description": "ru.wikibooks.org",
+        "value": "ru.wikibooks.org"
+    },
+    {
+        "label": "Russian Wikinews",
+        "description": "ru.wikinews.org",
+        "value": "ru.wikinews.org"
+    },
+    {
+        "label": "Russian Wikiquote",
+        "description": "ru.wikiquote.org",
+        "value": "ru.wikiquote.org"
+    },
+    {
+        "label": "Russian Wikisource",
+        "description": "ru.wikisource.org",
+        "value": "ru.wikisource.org"
+    },
+    {
+        "label": "Russian Wikiversity",
+        "description": "ru.wikiversity.org",
+        "value": "ru.wikiversity.org"
+    },
+    {
+        "label": "Russian Wikivoyage",
+        "description": "ru.wikivoyage.org",
+        "value": "ru.wikivoyage.org"
+    },
+    {
+        "label": "Russian Wiktionary",
+        "description": "ru.wiktionary.org",
+        "value": "ru.wiktionary.org"
+    },
+    {
+        "label": "Kinyarwanda Wikipedia",
+        "description": "rw.wikipedia.org",
+        "value": "rw.wikipedia.org"
+    },
+    {
+        "label": "Kinyarwanda Wiktionary",
+        "description": "rw.wiktionary.org",
+        "value": "rw.wiktionary.org"
+    },
+    {
+        "label": "Sakha Wikipedia",
+        "description": "sah.wikipedia.org",
+        "value": "sah.wikipedia.org"
+    },
+    {
+        "label": "Sakha Wikiquote",
+        "description": "sah.wikiquote.org",
+        "value": "sah.wikiquote.org"
+    },
+    {
+        "label": "Sakha Wikisource",
+        "description": "sah.wikisource.org",
+        "value": "sah.wikisource.org"
+    },
+    {
+        "label": "Santali Wikipedia",
+        "description": "sat.wikipedia.org",
+        "value": "sat.wikipedia.org"
+    },
+    {
+        "label": "Sanskrit Wikipedia",
+        "description": "sa.wikipedia.org",
+        "value": "sa.wikipedia.org"
+    },
+    {
+        "label": "Sanskrit Wikibooks",
+        "description": "sa.wikibooks.org",
+        "value": "sa.wikibooks.org"
+    },
+    {
+        "label": "Sanskrit Wikiquote",
+        "description": "sa.wikiquote.org",
+        "value": "sa.wikiquote.org"
+    },
+    {
+        "label": "Sanskrit Wikisource",
+        "description": "sa.wikisource.org",
+        "value": "sa.wikisource.org"
+    },
+    {
+        "label": "Sanskrit Wiktionary",
+        "description": "sa.wiktionary.org",
+        "value": "sa.wiktionary.org"
+    },
+    {
+        "label": "Sicilian Wikipedia",
+        "description": "scn.wikipedia.org",
+        "value": "scn.wikipedia.org"
+    },
+    {
+        "label": "Sicilian Wiktionary",
+        "description": "scn.wiktionary.org",
+        "value": "scn.wiktionary.org"
+    },
+    {
+        "label": "Scots Wikipedia",
+        "description": "sco.wikipedia.org",
+        "value": "sco.wikipedia.org"
+    },
+    {
+        "label": "Sardinian Wikipedia",
+        "description": "sc.wikipedia.org",
+        "value": "sc.wikipedia.org"
+    },
+    {
+        "label": "Sardinian Wiktionary",
+        "description": "sc.wiktionary.org",
+        "value": "sc.wiktionary.org"
+    },
+    {
+        "label": "Sindhi Wikipedia",
+        "description": "sd.wikipedia.org",
+        "value": "sd.wikipedia.org"
+    },
+    {
+        "label": "Sindhi Wikinews",
+        "description": "sd.wikinews.org",
+        "value": "sd.wikinews.org"
+    },
+    {
+        "label": "Sindhi Wiktionary",
+        "description": "sd.wiktionary.org",
+        "value": "sd.wiktionary.org"
+    },
+    {
+        "label": "Northern Sami Wikipedia",
+        "description": "se.wikipedia.org",
+        "value": "se.wikipedia.org"
+    },
+    {
+        "label": "Northern Sami Wikibooks",
+        "description": "se.wikibooks.org",
+        "value": "se.wikibooks.org"
+    },
+    {
+        "label": "Sango Wikipedia",
+        "description": "sg.wikipedia.org",
+        "value": "sg.wikipedia.org"
+    },
+    {
+        "label": "Sango Wiktionary",
+        "description": "sg.wiktionary.org",
+        "value": "sg.wiktionary.org"
+    },
+    {
+        "label": "Tachelhit Wikipedia",
+        "description": "shi.wikipedia.org",
+        "value": "shi.wikipedia.org"
+    },
+    {
+        "label": "Shan Wikipedia",
+        "description": "shn.wikipedia.org",
+        "value": "shn.wikipedia.org"
+    },
+    {
+        "label": "Shan Wikibooks",
+        "description": "shn.wikibooks.org",
+        "value": "shn.wikibooks.org"
+    },
+    {
+        "label": "Shan Wikivoyage",
+        "description": "shn.wikivoyage.org",
+        "value": "shn.wikivoyage.org"
+    },
+    {
+        "label": "Shan Wiktionary",
+        "description": "shn.wiktionary.org",
+        "value": "shn.wiktionary.org"
+    },
+    {
+        "label": "Serbo-Croatian Wikipedia",
+        "description": "sh.wikipedia.org",
+        "value": "sh.wikipedia.org"
+    },
+    {
+        "label": "Serbo-Croatian Wiktionary",
+        "description": "sh.wiktionary.org",
+        "value": "sh.wiktionary.org"
+    },
+    {
+        "label": "Shawiya Wiktionary",
+        "description": "shy.wiktionary.org",
+        "value": "shy.wiktionary.org"
+    },
+    {
+        "label": "Simple English Wikipedia",
+        "description": "simple.wikipedia.org",
+        "value": "simple.wikipedia.org"
+    },
+    {
+        "label": "Simple English Wikibooks",
+        "description": "simple.wikibooks.org",
+        "value": "simple.wikibooks.org"
+    },
+    {
+        "label": "Simple English Wikiquote",
+        "description": "simple.wikiquote.org",
+        "value": "simple.wikiquote.org"
+    },
+    {
+        "label": "Simple English Wiktionary",
+        "description": "simple.wiktionary.org",
+        "value": "simple.wiktionary.org"
+    },
+    {
+        "label": "Sinhala Wikipedia",
+        "description": "si.wikipedia.org",
+        "value": "si.wikipedia.org"
+    },
+    {
+        "label": "Sinhala Wikibooks",
+        "description": "si.wikibooks.org",
+        "value": "si.wikibooks.org"
+    },
+    {
+        "label": "Sinhala Wiktionary",
+        "description": "si.wiktionary.org",
+        "value": "si.wiktionary.org"
+    },
+    {
+        "label": "Saraiki Wikipedia",
+        "description": "skr.wikipedia.org",
+        "value": "skr.wikipedia.org"
+    },
+    {
+        "label": "Saraiki Wiktionary",
+        "description": "skr.wiktionary.org",
+        "value": "skr.wiktionary.org"
+    },
+    {
+        "label": "Slovak Wikipedia",
+        "description": "sk.wikipedia.org",
+        "value": "sk.wikipedia.org"
+    },
+    {
+        "label": "Slovak Wikibooks",
+        "description": "sk.wikibooks.org",
+        "value": "sk.wikibooks.org"
+    },
+    {
+        "label": "Slovak Wikiquote",
+        "description": "sk.wikiquote.org",
+        "value": "sk.wikiquote.org"
+    },
+    {
+        "label": "Slovak Wikisource",
+        "description": "sk.wikisource.org",
+        "value": "sk.wikisource.org"
+    },
+    {
+        "label": "Slovak Wiktionary",
+        "description": "sk.wiktionary.org",
+        "value": "sk.wiktionary.org"
+    },
+    {
+        "label": "Slovenian Wikipedia",
+        "description": "sl.wikipedia.org",
+        "value": "sl.wikipedia.org"
+    },
+    {
+        "label": "Slovenian Wikibooks",
+        "description": "sl.wikibooks.org",
+        "value": "sl.wikibooks.org"
+    },
+    {
+        "label": "Slovenian Wikiquote",
+        "description": "sl.wikiquote.org",
+        "value": "sl.wikiquote.org"
+    },
+    {
+        "label": "Slovenian Wikisource",
+        "description": "sl.wikisource.org",
+        "value": "sl.wikisource.org"
+    },
+    {
+        "label": "Slovenian Wikiversity",
+        "description": "sl.wikiversity.org",
+        "value": "sl.wikiversity.org"
+    },
+    {
+        "label": "Slovenian Wiktionary",
+        "description": "sl.wiktionary.org",
+        "value": "sl.wiktionary.org"
+    },
+    {
+        "label": "Inari Sami Wikipedia",
+        "description": "smn.wikipedia.org",
+        "value": "smn.wikipedia.org"
+    },
+    {
+        "label": "Samoan Wikipedia",
+        "description": "sm.wikipedia.org",
+        "value": "sm.wikipedia.org"
+    },
+    {
+        "label": "Samoan Wiktionary",
+        "description": "sm.wiktionary.org",
+        "value": "sm.wiktionary.org"
+    },
+    {
+        "label": "Shona Wikipedia",
+        "description": "sn.wikipedia.org",
+        "value": "sn.wikipedia.org"
+    },
+    {
+        "label": "Shona Wiktionary",
+        "description": "sn.wiktionary.org",
+        "value": "sn.wiktionary.org"
+    },
+    {
+        "label": "Multilingual Wikisource",
+        "description": "wikisource.org",
+        "value": "wikisource.org"
+    },
+    {
+        "label": "Somali Wikipedia",
+        "description": "so.wikipedia.org",
+        "value": "so.wikipedia.org"
+    },
+    {
+        "label": "Somali Wiktionary",
+        "description": "so.wiktionary.org",
+        "value": "so.wiktionary.org"
+    },
+    {
+        "label": "Wikispecies",
+        "description": "species.wikimedia.org",
+        "value": "species.wikimedia.org"
+    },
+    {
+        "label": "Albanian Wikipedia",
+        "description": "sq.wikipedia.org",
+        "value": "sq.wikipedia.org"
+    },
+    {
+        "label": "Albanian Wikibooks",
+        "description": "sq.wikibooks.org",
+        "value": "sq.wikibooks.org"
+    },
+    {
+        "label": "Albanian Wikinews",
+        "description": "sq.wikinews.org",
+        "value": "sq.wikinews.org"
+    },
+    {
+        "label": "Albanian Wikiquote",
+        "description": "sq.wikiquote.org",
+        "value": "sq.wikiquote.org"
+    },
+    {
+        "label": "Albanian Wiktionary",
+        "description": "sq.wiktionary.org",
+        "value": "sq.wiktionary.org"
+    },
+    {
+        "label": "Sranan Tongo Wikipedia",
+        "description": "srn.wikipedia.org",
+        "value": "srn.wikipedia.org"
+    },
+    {
+        "label": "Serbian Wikipedia",
+        "description": "sr.wikipedia.org",
+        "value": "sr.wikipedia.org"
+    },
+    {
+        "label": "Serbian Wikibooks",
+        "description": "sr.wikibooks.org",
+        "value": "sr.wikibooks.org"
+    },
+    {
+        "label": "Serbian Wikinews",
+        "description": "sr.wikinews.org",
+        "value": "sr.wikinews.org"
+    },
+    {
+        "label": "Serbian Wikiquote",
+        "description": "sr.wikiquote.org",
+        "value": "sr.wikiquote.org"
+    },
+    {
+        "label": "Serbian Wikisource",
+        "description": "sr.wikisource.org",
+        "value": "sr.wikisource.org"
+    },
+    {
+        "label": "Serbian Wiktionary",
+        "description": "sr.wiktionary.org",
+        "value": "sr.wiktionary.org"
+    },
+    {
+        "label": "Swati Wikipedia",
+        "description": "ss.wikipedia.org",
+        "value": "ss.wikipedia.org"
+    },
+    {
+        "label": "Swati Wiktionary",
+        "description": "ss.wiktionary.org",
+        "value": "ss.wiktionary.org"
+    },
+    {
+        "label": "Saterland Frisian Wikipedia",
+        "description": "stq.wikipedia.org",
+        "value": "stq.wikipedia.org"
+    },
+    {
+        "label": "Southern Sotho Wikipedia",
+        "description": "st.wikipedia.org",
+        "value": "st.wikipedia.org"
+    },
+    {
+        "label": "Southern Sotho Wiktionary",
+        "description": "st.wiktionary.org",
+        "value": "st.wiktionary.org"
+    },
+    {
+        "label": "Sundanese Wikipedia",
+        "description": "su.wikipedia.org",
+        "value": "su.wikipedia.org"
+    },
+    {
+        "label": "Sundanese Wikibooks",
+        "description": "su.wikibooks.org",
+        "value": "su.wikibooks.org"
+    },
+    {
+        "label": "Sundanese Wikiquote",
+        "description": "su.wikiquote.org",
+        "value": "su.wikiquote.org"
+    },
+    {
+        "label": "Sundanese Wikisource",
+        "description": "su.wikisource.org",
+        "value": "su.wikisource.org"
+    },
+    {
+        "label": "Sundanese Wiktionary",
+        "description": "su.wiktionary.org",
+        "value": "su.wiktionary.org"
+    },
+    {
+        "label": "Swedish Wikipedia",
+        "description": "sv.wikipedia.org",
+        "value": "sv.wikipedia.org"
+    },
+    {
+        "label": "Swedish Wikibooks",
+        "description": "sv.wikibooks.org",
+        "value": "sv.wikibooks.org"
+    },
+    {
+        "label": "Swedish Wikinews",
+        "description": "sv.wikinews.org",
+        "value": "sv.wikinews.org"
+    },
+    {
+        "label": "Swedish Wikiquote",
+        "description": "sv.wikiquote.org",
+        "value": "sv.wikiquote.org"
+    },
+    {
+        "label": "Swedish Wikisource",
+        "description": "sv.wikisource.org",
+        "value": "sv.wikisource.org"
+    },
+    {
+        "label": "Swedish Wikiversity",
+        "description": "sv.wikiversity.org",
+        "value": "sv.wikiversity.org"
+    },
+    {
+        "label": "Swedish Wikivoyage",
+        "description": "sv.wikivoyage.org",
+        "value": "sv.wikivoyage.org"
+    },
+    {
+        "label": "Swedish Wiktionary",
+        "description": "sv.wiktionary.org",
+        "value": "sv.wiktionary.org"
+    },
+    {
+        "label": "Swahili Wikipedia",
+        "description": "sw.wikipedia.org",
+        "value": "sw.wikipedia.org"
+    },
+    {
+        "label": "Swahili Wikibooks",
+        "description": "sw.wikibooks.org",
+        "value": "sw.wikibooks.org"
+    },
+    {
+        "label": "Swahili Wiktionary",
+        "description": "sw.wiktionary.org",
+        "value": "sw.wiktionary.org"
+    },
+    {
+        "label": "Silesian Wikipedia",
+        "description": "szl.wikipedia.org",
+        "value": "szl.wikipedia.org"
+    },
+    {
+        "label": "Sakizaya Wikipedia",
+        "description": "szy.wikipedia.org",
+        "value": "szy.wikipedia.org"
+    },
+    {
+        "label": "Tamil Wikipedia",
+        "description": "ta.wikipedia.org",
+        "value": "ta.wikipedia.org"
+    },
+    {
+        "label": "Tamil Wikibooks",
+        "description": "ta.wikibooks.org",
+        "value": "ta.wikibooks.org"
+    },
+    {
+        "label": "Tamil Wikinews",
+        "description": "ta.wikinews.org",
+        "value": "ta.wikinews.org"
+    },
+    {
+        "label": "Tamil Wikiquote",
+        "description": "ta.wikiquote.org",
+        "value": "ta.wikiquote.org"
+    },
+    {
+        "label": "Tamil Wikisource",
+        "description": "ta.wikisource.org",
+        "value": "ta.wikisource.org"
+    },
+    {
+        "label": "Tamil Wiktionary",
+        "description": "ta.wiktionary.org",
+        "value": "ta.wiktionary.org"
+    },
+    {
+        "label": "Atayal Wikipedia",
+        "description": "tay.wikipedia.org",
+        "value": "tay.wikipedia.org"
+    },
+    {
+        "label": "Tulu Wikipedia",
+        "description": "tcy.wikipedia.org",
+        "value": "tcy.wikipedia.org"
+    },
+    {
+        "label": "Tetum Wikipedia",
+        "description": "tet.wikipedia.org",
+        "value": "tet.wikipedia.org"
+    },
+    {
+        "label": "Telugu Wikipedia",
+        "description": "te.wikipedia.org",
+        "value": "te.wikipedia.org"
+    },
+    {
+        "label": "Telugu Wikibooks",
+        "description": "te.wikibooks.org",
+        "value": "te.wikibooks.org"
+    },
+    {
+        "label": "Telugu Wikiquote",
+        "description": "te.wikiquote.org",
+        "value": "te.wikiquote.org"
+    },
+    {
+        "label": "Telugu Wikisource",
+        "description": "te.wikisource.org",
+        "value": "te.wikisource.org"
+    },
+    {
+        "label": "Telugu Wiktionary",
+        "description": "te.wiktionary.org",
+        "value": "te.wiktionary.org"
+    },
+    {
+        "label": "Tajik Wikipedia",
+        "description": "tg.wikipedia.org",
+        "value": "tg.wikipedia.org"
+    },
+    {
+        "label": "Tajik Wikibooks",
+        "description": "tg.wikibooks.org",
+        "value": "tg.wikibooks.org"
+    },
+    {
+        "label": "Tajik Wiktionary",
+        "description": "tg.wiktionary.org",
+        "value": "tg.wiktionary.org"
+    },
+    {
+        "label": "Thai Wikipedia",
+        "description": "th.wikipedia.org",
+        "value": "th.wikipedia.org"
+    },
+    {
+        "label": "Thai Wikibooks",
+        "description": "th.wikibooks.org",
+        "value": "th.wikibooks.org"
+    },
+    {
+        "label": "Thai Wikinews",
+        "description": "th.wikinews.org",
+        "value": "th.wikinews.org"
+    },
+    {
+        "label": "Thai Wikiquote",
+        "description": "th.wikiquote.org",
+        "value": "th.wikiquote.org"
+    },
+    {
+        "label": "Thai Wikisource",
+        "description": "th.wikisource.org",
+        "value": "th.wikisource.org"
+    },
+    {
+        "label": "Thai Wiktionary",
+        "description": "th.wiktionary.org",
+        "value": "th.wiktionary.org"
+    },
+    {
+        "label": "Tigrinya Wikipedia",
+        "description": "ti.wikipedia.org",
+        "value": "ti.wikipedia.org"
+    },
+    {
+        "label": "Tigrinya Wiktionary",
+        "description": "ti.wiktionary.org",
+        "value": "ti.wiktionary.org"
+    },
+    {
+        "label": "Turkmen Wikipedia",
+        "description": "tk.wikipedia.org",
+        "value": "tk.wikipedia.org"
+    },
+    {
+        "label": "Turkmen Wikibooks",
+        "description": "tk.wikibooks.org",
+        "value": "tk.wikibooks.org"
+    },
+    {
+        "label": "Turkmen Wikiquote",
+        "description": "tk.wikiquote.org",
+        "value": "tk.wikiquote.org"
+    },
+    {
+        "label": "Turkmen Wiktionary",
+        "description": "tk.wiktionary.org",
+        "value": "tk.wiktionary.org"
+    },
+    {
+        "label": "Tagalog Wikipedia",
+        "description": "tl.wikipedia.org",
+        "value": "tl.wikipedia.org"
+    },
+    {
+        "label": "Tagalog Wikibooks",
+        "description": "tl.wikibooks.org",
+        "value": "tl.wikibooks.org"
+    },
+    {
+        "label": "Tagalog Wikiquote",
+        "description": "tl.wikiquote.org",
+        "value": "tl.wikiquote.org"
+    },
+    {
+        "label": "Tagalog Wiktionary",
+        "description": "tl.wiktionary.org",
+        "value": "tl.wiktionary.org"
+    },
+    {
+        "label": "Talysh Wikipedia",
+        "description": "tly.wikipedia.org",
+        "value": "tly.wikipedia.org"
+    },
+    {
+        "label": "Tswana Wikipedia",
+        "description": "tn.wikipedia.org",
+        "value": "tn.wikipedia.org"
+    },
+    {
+        "label": "Tswana Wiktionary",
+        "description": "tn.wiktionary.org",
+        "value": "tn.wiktionary.org"
+    },
+    {
+        "label": "Tongan Wikipedia",
+        "description": "to.wikipedia.org",
+        "value": "to.wikipedia.org"
+    },
+    {
+        "label": "Tongan Wiktionary",
+        "description": "to.wiktionary.org",
+        "value": "to.wiktionary.org"
+    },
+    {
+        "label": "Tok Pisin Wikipedia",
+        "description": "tpi.wikipedia.org",
+        "value": "tpi.wikipedia.org"
+    },
+    {
+        "label": "Tok Pisin Wiktionary",
+        "description": "tpi.wiktionary.org",
+        "value": "tpi.wiktionary.org"
+    },
+    {
+        "label": "Seediq Wikipedia",
+        "description": "trv.wikipedia.org",
+        "value": "trv.wikipedia.org"
+    },
+    {
+        "label": "Turkish Wikipedia",
+        "description": "tr.wikipedia.org",
+        "value": "tr.wikipedia.org"
+    },
+    {
+        "label": "Turkish Wikibooks",
+        "description": "tr.wikibooks.org",
+        "value": "tr.wikibooks.org"
+    },
+    {
+        "label": "Turkish Wikinews",
+        "description": "tr.wikinews.org",
+        "value": "tr.wikinews.org"
+    },
+    {
+        "label": "Turkish Wikiquote",
+        "description": "tr.wikiquote.org",
+        "value": "tr.wikiquote.org"
+    },
+    {
+        "label": "Turkish Wikisource",
+        "description": "tr.wikisource.org",
+        "value": "tr.wikisource.org"
+    },
+    {
+        "label": "Turkish Wikivoyage",
+        "description": "tr.wikivoyage.org",
+        "value": "tr.wikivoyage.org"
+    },
+    {
+        "label": "Turkish Wiktionary",
+        "description": "tr.wiktionary.org",
+        "value": "tr.wiktionary.org"
+    },
+    {
+        "label": "Tsonga Wikipedia",
+        "description": "ts.wikipedia.org",
+        "value": "ts.wikipedia.org"
+    },
+    {
+        "label": "Tsonga Wiktionary",
+        "description": "ts.wiktionary.org",
+        "value": "ts.wiktionary.org"
+    },
+    {
+        "label": "Tatar Wikipedia",
+        "description": "tt.wikipedia.org",
+        "value": "tt.wikipedia.org"
+    },
+    {
+        "label": "Tatar Wikibooks",
+        "description": "tt.wikibooks.org",
+        "value": "tt.wikibooks.org"
+    },
+    {
+        "label": "Tatar Wikiquote",
+        "description": "tt.wikiquote.org",
+        "value": "tt.wikiquote.org"
+    },
+    {
+        "label": "Tatar Wiktionary",
+        "description": "tt.wiktionary.org",
+        "value": "tt.wiktionary.org"
+    },
+    {
+        "label": "Tumbuka Wikipedia",
+        "description": "tum.wikipedia.org",
+        "value": "tum.wikipedia.org"
+    },
+    {
+        "label": "Twi Wikipedia",
+        "description": "tw.wikipedia.org",
+        "value": "tw.wikipedia.org"
+    },
+    {
+        "label": "Twi Wiktionary",
+        "description": "tw.wiktionary.org",
+        "value": "tw.wiktionary.org"
+    },
+    {
+        "label": "Tuvinian Wikipedia",
+        "description": "tyv.wikipedia.org",
+        "value": "tyv.wikipedia.org"
+    },
+    {
+        "label": "Tahitian Wikipedia",
+        "description": "ty.wikipedia.org",
+        "value": "ty.wikipedia.org"
+    },
+    {
+        "label": "Udmurt Wikipedia",
+        "description": "udm.wikipedia.org",
+        "value": "udm.wikipedia.org"
+    },
+    {
+        "label": "Uyghur Wikipedia",
+        "description": "ug.wikipedia.org",
+        "value": "ug.wikipedia.org"
+    },
+    {
+        "label": "Uyghur Wikibooks",
+        "description": "ug.wikibooks.org",
+        "value": "ug.wikibooks.org"
+    },
+    {
+        "label": "Uyghur Wikiquote",
+        "description": "ug.wikiquote.org",
+        "value": "ug.wikiquote.org"
+    },
+    {
+        "label": "Uyghur Wiktionary",
+        "description": "ug.wiktionary.org",
+        "value": "ug.wiktionary.org"
+    },
+    {
+        "label": "Ukrainian Wikipedia",
+        "description": "uk.wikipedia.org",
+        "value": "uk.wikipedia.org"
+    },
+    {
+        "label": "Ukrainian Wikibooks",
+        "description": "uk.wikibooks.org",
+        "value": "uk.wikibooks.org"
+    },
+    {
+        "label": "Ukrainian Wikinews",
+        "description": "uk.wikinews.org",
+        "value": "uk.wikinews.org"
+    },
+    {
+        "label": "Ukrainian Wikiquote",
+        "description": "uk.wikiquote.org",
+        "value": "uk.wikiquote.org"
+    },
+    {
+        "label": "Ukrainian Wikisource",
+        "description": "uk.wikisource.org",
+        "value": "uk.wikisource.org"
+    },
+    {
+        "label": "Ukrainian Wikivoyage",
+        "description": "uk.wikivoyage.org",
+        "value": "uk.wikivoyage.org"
+    },
+    {
+        "label": "Ukrainian Wiktionary",
+        "description": "uk.wiktionary.org",
+        "value": "uk.wiktionary.org"
+    },
+    {
+        "label": "Urdu Wikipedia",
+        "description": "ur.wikipedia.org",
+        "value": "ur.wikipedia.org"
+    },
+    {
+        "label": "Urdu Wikibooks",
+        "description": "ur.wikibooks.org",
+        "value": "ur.wikibooks.org"
+    },
+    {
+        "label": "Urdu Wikiquote",
+        "description": "ur.wikiquote.org",
+        "value": "ur.wikiquote.org"
+    },
+    {
+        "label": "Urdu Wiktionary",
+        "description": "ur.wiktionary.org",
+        "value": "ur.wiktionary.org"
+    },
+    {
+        "label": "Uzbek Wikipedia",
+        "description": "uz.wikipedia.org",
+        "value": "uz.wikipedia.org"
+    },
+    {
+        "label": "Uzbek Wikibooks",
+        "description": "uz.wikibooks.org",
+        "value": "uz.wikibooks.org"
+    },
+    {
+        "label": "Uzbek Wikiquote",
+        "description": "uz.wikiquote.org",
+        "value": "uz.wikiquote.org"
+    },
+    {
+        "label": "Uzbek Wiktionary",
+        "description": "uz.wiktionary.org",
+        "value": "uz.wiktionary.org"
+    },
+    {
+        "label": "Venetian Wikipedia",
+        "description": "vec.wikipedia.org",
+        "value": "vec.wikipedia.org"
+    },
+    {
+        "label": "Venetian Wikisource",
+        "description": "vec.wikisource.org",
+        "value": "vec.wikisource.org"
+    },
+    {
+        "label": "Venetian Wiktionary",
+        "description": "vec.wiktionary.org",
+        "value": "vec.wiktionary.org"
+    },
+    {
+        "label": "Veps Wikipedia",
+        "description": "vep.wikipedia.org",
+        "value": "vep.wikipedia.org"
+    },
+    {
+        "label": "Venda Wikipedia",
+        "description": "ve.wikipedia.org",
+        "value": "ve.wikipedia.org"
+    },
+    {
+        "label": "Vietnamese Wikipedia",
+        "description": "vi.wikipedia.org",
+        "value": "vi.wikipedia.org"
+    },
+    {
+        "label": "Vietnamese Wikibooks",
+        "description": "vi.wikibooks.org",
+        "value": "vi.wikibooks.org"
+    },
+    {
+        "label": "Vietnamese Wikiquote",
+        "description": "vi.wikiquote.org",
+        "value": "vi.wikiquote.org"
+    },
+    {
+        "label": "Vietnamese Wikisource",
+        "description": "vi.wikisource.org",
+        "value": "vi.wikisource.org"
+    },
+    {
+        "label": "Vietnamese Wikivoyage",
+        "description": "vi.wikivoyage.org",
+        "value": "vi.wikivoyage.org"
+    },
+    {
+        "label": "Vietnamese Wiktionary",
+        "description": "vi.wiktionary.org",
+        "value": "vi.wiktionary.org"
+    },
+    {
+        "label": "West Flemish Wikipedia",
+        "description": "vls.wikipedia.org",
+        "value": "vls.wikipedia.org"
+    },
+    {
+        "label": "Volapük Wikipedia",
+        "description": "vo.wikipedia.org",
+        "value": "vo.wikipedia.org"
+    },
+    {
+        "label": "Volapük Wikibooks",
+        "description": "vo.wikibooks.org",
+        "value": "vo.wikibooks.org"
+    },
+    {
+        "label": "Volapük Wikiquote",
+        "description": "vo.wikiquote.org",
+        "value": "vo.wikiquote.org"
+    },
+    {
+        "label": "Volapük Wiktionary",
+        "description": "vo.wiktionary.org",
+        "value": "vo.wiktionary.org"
+    },
+    {
+        "label": "Waray Wikipedia",
+        "description": "war.wikipedia.org",
+        "value": "war.wikipedia.org"
+    },
+    {
+        "label": "Walloon Wikipedia",
+        "description": "wa.wikipedia.org",
+        "value": "wa.wikipedia.org"
+    },
+    {
+        "label": "Walloon Wikibooks",
+        "description": "wa.wikibooks.org",
+        "value": "wa.wikibooks.org"
+    },
+    {
+        "label": "Walloon Wikisource",
+        "description": "wa.wikisource.org",
+        "value": "wa.wikisource.org"
+    },
+    {
+        "label": "Walloon Wiktionary",
+        "description": "wa.wiktionary.org",
+        "value": "wa.wiktionary.org"
+    },
+    {
+        "label": "Wikidata",
+        "description": "www.wikidata.org",
+        "value": "www.wikidata.org"
+    },
+    {
+        "label": "Wikifunctions",
+        "description": "www.wikifunctions.org",
+        "value": "www.wikifunctions.org"
+    },
+    {
+        "label": "Wolof Wikipedia",
+        "description": "wo.wikipedia.org",
+        "value": "wo.wikipedia.org"
+    },
+    {
+        "label": "Wolof Wikiquote",
+        "description": "wo.wikiquote.org",
+        "value": "wo.wikiquote.org"
+    },
+    {
+        "label": "Wolof Wiktionary",
+        "description": "wo.wiktionary.org",
+        "value": "wo.wiktionary.org"
+    },
+    {
+        "label": "Wu Chinese Wikipedia",
+        "description": "wuu.wikipedia.org",
+        "value": "wuu.wikipedia.org"
+    },
+    {
+        "label": "Kalmyk Wikipedia",
+        "description": "xal.wikipedia.org",
+        "value": "xal.wikipedia.org"
+    },
+    {
+        "label": "Xhosa Wikipedia",
+        "description": "xh.wikipedia.org",
+        "value": "xh.wikipedia.org"
+    },
+    {
+        "label": "Xhosa Wikibooks",
+        "description": "xh.wikibooks.org",
+        "value": "xh.wikibooks.org"
+    },
+    {
+        "label": "Xhosa Wiktionary",
+        "description": "xh.wiktionary.org",
+        "value": "xh.wiktionary.org"
+    },
+    {
+        "label": "Mingrelian Wikipedia",
+        "description": "xmf.wikipedia.org",
+        "value": "xmf.wikipedia.org"
+    },
+    {
+        "label": "Yiddish Wikipedia",
+        "description": "yi.wikipedia.org",
+        "value": "yi.wikipedia.org"
+    },
+    {
+        "label": "Yiddish Wikisource",
+        "description": "yi.wikisource.org",
+        "value": "yi.wikisource.org"
+    },
+    {
+        "label": "Yiddish Wiktionary",
+        "description": "yi.wiktionary.org",
+        "value": "yi.wiktionary.org"
+    },
+    {
+        "label": "Yoruba Wikipedia",
+        "description": "yo.wikipedia.org",
+        "value": "yo.wikipedia.org"
+    },
+    {
+        "label": "Yoruba Wikibooks",
+        "description": "yo.wikibooks.org",
+        "value": "yo.wikibooks.org"
+    },
+    {
+        "label": "Yoruba Wiktionary",
+        "description": "yo.wiktionary.org",
+        "value": "yo.wiktionary.org"
+    },
+    {
+        "label": "Cantonese Wiktionary",
+        "description": "yue.wiktionary.org",
+        "value": "yue.wiktionary.org"
+    },
+    {
+        "label": "Zhuang Wikipedia",
+        "description": "za.wikipedia.org",
+        "value": "za.wikipedia.org"
+    },
+    {
+        "label": "Zhuang Wikibooks",
+        "description": "za.wikibooks.org",
+        "value": "za.wikibooks.org"
+    },
+    {
+        "label": "Zhuang Wikiquote",
+        "description": "za.wikiquote.org",
+        "value": "za.wikiquote.org"
+    },
+    {
+        "label": "Zhuang Wiktionary",
+        "description": "za.wiktionary.org",
+        "value": "za.wiktionary.org"
+    },
+    {
+        "label": "Zeelandic Wikipedia",
+        "description": "zea.wikipedia.org",
+        "value": "zea.wikipedia.org"
+    },
+    {
+        "label": "Moroccan Amazigh Wikipedia",
+        "description": "zgh.wikipedia.org",
+        "value": "zgh.wikipedia.org"
+    },
+    {
+        "label": "Classical Chinese Wikipedia",
+        "description": "zh-classical.wikipedia.org",
+        "value": "zh-classical.wikipedia.org"
+    },
+    {
+        "label": "Min Nan Wikipedia",
+        "description": "zh-min-nan.wikipedia.org",
+        "value": "zh-min-nan.wikipedia.org"
+    },
+    {
+        "label": "Min Nan Wikibooks",
+        "description": "zh-min-nan.wikibooks.org",
+        "value": "zh-min-nan.wikibooks.org"
+    },
+    {
+        "label": "Min Nan Wikiquote",
+        "description": "zh-min-nan.wikiquote.org",
+        "value": "zh-min-nan.wikiquote.org"
+    },
+    {
+        "label": "Min Nan Wikisource",
+        "description": "zh-min-nan.wikisource.org",
+        "value": "zh-min-nan.wikisource.org"
+    },
+    {
+        "label": "Min Nan Wiktionary",
+        "description": "zh-min-nan.wiktionary.org",
+        "value": "zh-min-nan.wiktionary.org"
+    },
+    {
+        "label": "Cantonese Wikipedia",
+        "description": "zh-yue.wikipedia.org",
+        "value": "zh-yue.wikipedia.org"
+    },
+    {
+        "label": "Zulu Wikipedia",
+        "description": "zu.wikipedia.org",
+        "value": "zu.wikipedia.org"
+    },
+    {
+        "label": "Zulu Wikibooks",
+        "description": "zu.wikibooks.org",
+        "value": "zu.wikibooks.org"
+    },
+    {
+        "label": "Zulu Wiktionary",
+        "description": "zu.wiktionary.org",
+        "value": "zu.wiktionary.org"
+    }
+]
