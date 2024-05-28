@@ -65,9 +65,6 @@
               interactive map of the data.</li>
             <li>You can filter the line graph to a selection of countries at the bottom of this page.</li>
           </ol>
-          <p>If you'd like to filter to just the top 10 most viewed countries, hit the checkbox for that limiting. If
-            you'd like to limit to one selected country, type that country into the country search bar, select it, press
-            "Limit to selected country", and hit "Graph data!".</p>
         </section>
       </section>
       <div class="separator"></div>
