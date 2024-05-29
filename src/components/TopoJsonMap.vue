@@ -10,7 +10,7 @@
 
 <script>
 import * as d3 from 'd3';
-import * as topojson from 'topojson';
+import * as topojson from 'topojson-client';
 import LoadingSpinner from './LoadingSpinner.vue';
 import topojsonData from './data/countries-110m.json';
 
