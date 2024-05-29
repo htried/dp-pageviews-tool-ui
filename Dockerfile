@@ -4,7 +4,7 @@ FROM node:latest as build-stage
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
-RUN npm install @wikimedia/codex d3
+# RUN npm install @wikimedia/codex d3
 COPY ./ .
 RUN npm run build
 
