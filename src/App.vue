@@ -8,8 +8,6 @@
     <link href='https://tools-static.wmflabs.org/fontcdn/css?family=Lato:400,400italic,700,700italic&subset=latin'
       rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="./assets/main.css" type='text/css'>
-    <link rel="stylesheet" href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/codex/1.6.0/codex.style.min.css"
-      type="text/css">
     <link href="./assets/favicon.ico" rel="shortcut icon" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width = device-width, initial-scale=1, user-scalable = no" />
@@ -101,7 +99,7 @@
 import PageSearch from './components/PageSearch.vue'
 import LineGraph from './components/LineGraph.vue'
 import TopoJsonMap from './components/TopoJsonMap.vue'
-// import '@wikimedia/codex/dist/codex.style.css'
+import '@wikimedia/codex/dist/codex.style.css'
 import { ref, defineComponent } from 'vue'
 
 export default defineComponent({

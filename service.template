@@ -1,3 +1,0 @@
-backend: kubernetes
-type: buildservice
-mount: none
