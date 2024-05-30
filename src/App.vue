@@ -7,14 +7,13 @@
       rel="stylesheet" type="text/css">
     <link href='https://tools-static.wmflabs.org/fontcdn/css?family=Lato:400,400italic,700,700italic&subset=latin'
       rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="./assets/main.css" type='text/css'>
-    <link href="./assets/favicon.ico" rel="shortcut icon" />
+    <link href="/static/favicon.ico" rel="shortcut icon" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width = device-width, initial-scale=1, user-scalable = no" />
   </head>
   <div id="origin_bar">
     <div class="boxwidth--1-1 padded--left padded--right">
-      <a href="https://security.wikimedia.org/" class="origin_title"><img src="./assets/Wikimedia-Foundation-logo.svg"
+      <a href="https://security.wikimedia.org/" class="origin_title"><img src="/static/Wikimedia-Foundation-logo.svg"
           alt="Wikimedia Foundation logo" />Wikimedia Privacy</a>
     </div>
   </div>

@@ -1,6 +1,6 @@
 <template>
-    <LoadingSpinner v-if="loading" />
-    <div v-else id="mapContainer">
+    <LoadingSpinner v-show="loading" />
+    <div v-show="!loading" id="mapContainer">
         <div id="map"></div>
         <div id="legend"></div>
         <input type="range" v-model="selectedDateIndex" @input="updateMap" :min="0" :max="dateRange.length - 1">
@@ -99,6 +99,33 @@ export default {
         filterDataByDate(date) {
             return this.data.filter(d => d.date === date);
         },
+        getCTPL(country, date, pageviews) {
+            let pageview_message;
+            if (date >= '2024-02-15') {
+                if (mediumRisk.includes(country) && pageviews === 0) {
+                    pageview_message = '<550';
+                } else if (highRisk.includes(country) && pageviews === 0) {
+                    pageview_message = '<1,000';
+                } else if (notPublished.includes(country)) {
+                    pageview_message = 'Not published';
+                } else if (pageviews === 0) {
+                    pageview_message = '<90';
+                } else {
+                    pageview_message = pageviews.toLocaleString()
+                }
+            } else {
+                if (cplOld.includes(country)) {
+                    pageview_message = 'Not published';
+                } else if (date >= '2023-02-06' && pageviews === 0) {
+                    pageview_message = '<90';
+                } else if (date >= '2017-02-09' && pageviews === 0) {
+                    pageview_message = '<450';
+                } else {
+                    pageview_message = pageviews.toLocaleString()
+                }
+            }
+            return pageview_message
+        },
         renderMap(filteredData, date) {
             const totalPageviewsByCountry = new Map();
             filteredData.forEach(d => {
@@ -136,41 +163,22 @@ export default {
                 .attr('d', path)
                 .attr('fill', d => {
                     const country = d.properties.name;
+                    const pageviews = totalPageviewsByCountry.get(country) || 0;
+                    const pageview_message = this.getCTPL(country, date, pageviews)
+                    if (pageview_message === "Not published") {
+                        return "#808080"
+                    }
                     return colorScale(totalPageviewsByCountry.get(country) || 1);
                 })
                 .attr('stroke', 'black')
                 .attr('stroke-width', '0.5')
-                .on('mouseover', function (event, d) {
+                .on('mouseover', (event, d) => {
                     const country = d.properties.name;
                     const pageviews = totalPageviewsByCountry.get(country) || 0;
-                    let pageview_message;
-                    if (date >= '2024-02-15') {
-                        if (mediumRisk.includes(country) && pageviews === 0) {
-                            pageview_message = '<550';
-                        } else if (highRisk.includes(country) && pageviews === 0) {
-                            pageview_message = '<1,000';
-                        } else if (notPublished.includes(country)) {
-                            pageview_message = 'Not published';
-                        } else if (pageviews === 0) {
-                            pageview_message = '<90';
-                        } else {
-                            pageview_message = pageviews.toLocaleString()
-                        }
-                    } else {
-                        if (cplOld.includes(country)) {
-                            pageview_message = 'Not published';
-                        } else if (date >= '2023-02-06' && pageviews === 0) {
-                            pageview_message = '<90';
-                        } else if (date >= '2017-02-09' && pageviews === 0) {
-                            pageview_message = '<450';
-                        } else {
-                            pageview_message = pageviews.toLocaleString()
-                        }
-                    }
-
+                    const pageview_message = this.getCTPL(country, date, pageviews)
                     tooltip.style('visibility', 'visible')
                         .html(`<strong>${country}</strong><br>Pageviews: ${pageview_message}`);
-                    d3.select(this)
+                    d3.select(event.currentTarget)
                         .style('stroke', 'black')
                         .style('stroke-width', 2);
                 })

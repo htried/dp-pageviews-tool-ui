@@ -1,6 +1,6 @@
 <template>
-  <LoadingSpinner v-if="loading" />
-  <div v-else id="lineGraph"></div>
+  <LoadingSpinner v-show="loading" />
+  <div v-show="!loading" id="lineGraph"></div>
   <div style="display: flex; gap: 10px;">
     <CountrySelect @country-selected="updateCountry" @filter-graph="filterLineGraph" />
   </div>
@@ -33,23 +33,10 @@ export default {
     this.fetchData();
   },
   watch: {
-    // Watch for changes in props
-    startDate: {
-      handler: 'fetchData',
-      immediate: true
-    },
-    endDate: {
-      handler: 'fetchData',
-      immediate: true
-    },
-    project: {
-      handler: 'fetchData',
-      immediate: true
-    },
-    pageID: {
-      handler: 'fetchData',
-      immediate: true
-    },
+    startDate: 'fetchData',
+    endDate: 'fetchData',
+    pageID: 'fetchData',
+    project: 'fetchData'
   },
   methods: {
     async fetchData() {
