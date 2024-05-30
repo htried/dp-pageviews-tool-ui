@@ -1,32 +1,32 @@
 {
-  "name": "dp-pageviews-tool-ui",
-  "version": "0.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-    "format": "prettier --write src/",
-    "start": "serve"
-  },
-  "dependencies": {
-    "d3": "^7.9.0",
-    "serve": "^14.2.3",
-    "topojson-client": "^3.1.0",
-    "vue": "^3.4.21"
-  },
-  "devDependencies": {
-    "@rushstack/eslint-patch": "^1.8.0",
-    "@types/d3": "^7.4.3",
-    "@types/topojson-client": "^3.1.4",
-    "@vitejs/plugin-vue": "^5.0.4",
-    "@vue/eslint-config-prettier": "^9.0.0",
-    "@wikimedia/codex": "^1.6.1",
-    "eslint": "^8.57.0",
-    "eslint-plugin-vue": "^9.23.0",
-    "prettier": "^3.2.5",
-    "vite": "^5.2.8"
-  }
+	"name": "dp-pageviews-tool-ui",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+		"format": "prettier --write src/",
+		"start": "serve"
+	},
+	"dependencies": {
+		"d3": "^7.9.0",
+		"serve": "^14.2.3",
+		"topojson-client": "^3.1.0",
+		"vue": "^3.4.21"
+	},
+	"devDependencies": {
+		"@rushstack/eslint-patch": "^1.8.0",
+		"@types/d3": "^7.4.3",
+		"@types/topojson-client": "^3.1.4",
+		"@vitejs/plugin-vue": "^5.0.4",
+		"@vue/eslint-config-prettier": "^9.0.0",
+		"@wikimedia/codex": "^1.6.1",
+		"eslint": "^8.57.0",
+		"eslint-plugin-vue": "^9.23.0",
+		"prettier": "^3.2.5",
+		"vite": "^5.2.8"
+	}
 }
