@@ -23,8 +23,8 @@ export default defineComponent({
 	setup(props, { emit }) {
 		const inputValue = ref('');
 		const errorMessage = ref('');
-		const constantDate = new Date('2024-04-01');
-		const today = new Date();
+		const constantDate = new Date('2024-01-01');
+		const today = new Date('2024-05-29');
 		const maxDate = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
 		const minDate = `${constantDate.getFullYear()}-${String(constantDate.getMonth() + 1).padStart(2, '0')}-${String(constantDate.getDate()).padStart(2, '0')}`;
 
