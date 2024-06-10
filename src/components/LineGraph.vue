@@ -11,6 +11,10 @@ import * as d3 from 'd3';
 import CountrySelect from './CountrySelect.vue'
 import LoadingSpinner from './LoadingSpinner.vue'
 
+const mediumRisk = ['Afghanistan', 'Azerbaijan', 'Bangladesh', 'Djibouti', 'Ethiopia', 'Honduras', 'Iraq', 'Kazakhstan', 'Kuwait', 'Laos', 'Nicaragua', 'Oman', 'Pakistan', 'Palestine', 'Sudan', 'Tajikistan', 'United Arab Emirates', 'Uzbekistan', 'Venezuela', 'Yemen']
+const highRisk = ['Bahrain', 'Belarus', 'Egypt', 'Eritrea', 'Russia', 'Saudi Arabia', 'Turkey', 'Turkmenistan']
+const dropDates = ['2023-06-19', '2023-10-25', '2023-11-13', '2023-11-17', '2023-11-19', '2023-11-23', '2023-11-27']
+
 export default {
 	name: 'LineGraph',
 	components: {
@@ -86,6 +90,72 @@ export default {
 			} else {
 				this.renderLineGraph()
 			}
+		},
+		getCTPL(country, date, pageviews) {
+			let pageview_message;
+			let ci_lo_num
+			let ci_lo;
+			let ci_hi_num
+			let ci_hi;
+
+			// post-new CTPL deployment
+			if (date >= '2024-02-15') {
+				// case medium risk
+				if (mediumRisk.includes(country)) {
+					pageview_message = pageviews.toLocaleString();
+					ci_lo_num = pageviews - 176.5;
+					ci_hi_num = pageviews + 176.5;
+					ci_lo = ci_lo_num.toLocaleString();
+					ci_hi = ci_hi_num.toLocaleString();
+
+					// case high risk
+				} else if (highRisk.includes(country)) {
+					pageview_message = pageviews.toLocaleString();
+					ci_lo_num = pageviews - 352.5;
+					ci_hi_num = pageviews + 352.5;
+					ci_lo = ci_lo_num.toLocaleString();
+					ci_hi = ci_hi_num.toLocaleString();
+
+					// case not published
+				} else {
+					pageview_message = pageviews.toLocaleString();
+					ci_lo_num = pageviews - 35.7;
+					ci_hi_num = pageviews + 35.7;
+					ci_lo = ci_lo_num.toLocaleString();
+					ci_hi = ci_hi_num.toLocaleString();
+				}
+
+				// pre-new CTPL deployment
+			} else {
+				// case country_project_page release
+				if (date >= '2023-02-06') {
+					// account for US bug and for dropped dates
+					if ((date < '2023-09-19' && country === 'United States') || dropDates.includes(date)) {
+						pageview_message = pageviews.toLocaleString();
+						ci_lo_num = pageviews - 89.9;
+						ci_hi_num = pageviews + 89.9;
+						ci_lo = ci_lo_num.toLocaleString();
+						ci_hi = ci_hi_num.toLocaleString();
+
+						// normal case
+					} else {
+						pageview_message = pageviews.toLocaleString();
+						ci_lo_num = pageviews - 35.7;
+						ci_hi_num = pageviews + 35.7;
+						ci_lo = ci_lo_num.toLocaleString();
+						ci_hi = ci_hi_num.toLocaleString();
+					}
+
+					// case country_project_page_historical release
+				} else if (date >= '2017-02-09') {
+					pageview_message = pageviews.toLocaleString();
+					ci_lo_num = pageviews - 89.9;
+					ci_hi_num = pageviews + 89.9;
+					ci_lo = ci_lo_num.toLocaleString();
+					ci_hi = ci_hi_num.toLocaleString();
+				}
+			}
+			return [pageview_message, ci_lo, ci_hi]
 		},
 		renderLineGraph(filteredData = this.data) {
 			const totalPageviewsByCountry = new Map();
@@ -200,9 +270,11 @@ export default {
 			// Attach tooltip to each data point
 			svg.selectAll('circle')
 				.on('mouseover', (event, d) => {
+					const pageview_message = this.getCTPL(d.country, d.date, d.noisy_views);
+					var tooltip_html = `<strong>${d.country}</strong><br>Pageviews: ${pageview_message[0]}<br>95% CI: ${pageview_message[1]}-${pageview_message[2]}`
 					// Show tooltip and update content
 					tooltip.style('visibility', 'visible')
-						.html(`<strong>${d.country}</strong><br><strong>Date:</strong> ${d.date}<br><strong>Page views:</strong> ${d.noisy_views.toLocaleString()}`);
+						.html(tooltip_html);
 				})
 				.on('mousemove', (event) => {
 					// Move tooltip with mouse

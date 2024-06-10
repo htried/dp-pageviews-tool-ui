@@ -18,6 +18,7 @@ const cplOld = ["Afghanistan", "Azerbaijan", "Bahrain", "Bangladesh", "Belarus",
 const mediumRisk = ['Afghanistan', 'Azerbaijan', 'Bangladesh', 'Djibouti', 'Ethiopia', 'Honduras', 'Iraq', 'Kazakhstan', 'Kuwait', 'Laos', 'Nicaragua', 'Oman', 'Pakistan', 'Palestine', 'Sudan', 'Tajikistan', 'United Arab Emirates', 'Uzbekistan', 'Venezuela', 'Yemen']
 const highRisk = ['Bahrain', 'Belarus', 'Egypt', 'Eritrea', 'Russia', 'Saudi Arabia', 'Turkey', 'Turkmenistan']
 const notPublished = ['China', 'Hong Kong', 'Cuba', 'Iran', 'Macau', 'Myanmar', 'North Korea', 'Syria', 'Vietnam']
+const dropDates = ['2023-06-19', '2023-10-25', '2023-11-13', '2023-11-17', '2023-11-19', '2023-11-23', '2023-11-27']
 
 export default {
     name: 'TopoJsonMap',
@@ -101,30 +102,132 @@ export default {
         },
         getCTPL(country, date, pageviews) {
             let pageview_message;
+            let ci_lo_num
+            let ci_lo;
+            let ci_hi_num
+            let ci_hi;
+
+            // post-new CTPL deployment
             if (date >= '2024-02-15') {
-                if (mediumRisk.includes(country) && pageviews === 0) {
-                    pageview_message = '<550';
-                } else if (highRisk.includes(country) && pageviews === 0) {
-                    pageview_message = '<1,000';
+
+                // case medium risk
+                if (mediumRisk.includes(country)) {
+                    if (pageviews === 0) {
+                        pageview_message = '<550';
+                        ci_lo = 'N/A';
+                        ci_hi = 'N/A';
+                    } else {
+                        pageview_message = pageviews.toLocaleString();
+                        ci_lo_num = pageviews - 176.5;
+                        ci_hi_num = pageviews + 176.5;
+                        ci_lo = ci_lo_num.toLocaleString();
+                        ci_hi = ci_hi_num.toLocaleString();
+                    }
+
+                    // case high risk
+                } else if (highRisk.includes(country)) {
+                    if (pageviews === 0) {
+                        pageview_message = '<1,000';
+                        ci_lo = 'N/A';
+                        ci_hi = 'N/A';
+                    } else {
+                        pageview_message = pageviews.toLocaleString();
+                        ci_lo_num = pageviews - 352.5;
+                        ci_hi_num = pageviews + 352.5;
+                        ci_lo = ci_lo_num.toLocaleString();
+                        ci_hi = ci_hi_num.toLocaleString();
+                    }
+
+                    // case not published
                 } else if (notPublished.includes(country)) {
                     pageview_message = 'Not published';
+                    ci_lo = 'N/A';
+                    ci_hi = 'N/A';
+
+                    // case low-risk and no data
                 } else if (pageviews === 0) {
                     pageview_message = '<90';
+                    ci_lo = 'N/A';
+                    ci_hi = 'N/A';
+
+                    // case low-risk and data
                 } else {
-                    pageview_message = pageviews.toLocaleString()
+                    pageview_message = pageviews.toLocaleString();
+                    ci_lo_num = pageviews - 35.7;
+                    ci_hi_num = pageviews + 35.7;
+                    ci_lo = ci_lo_num.toLocaleString();
+                    ci_hi = ci_hi_num.toLocaleString();
                 }
+
+                // pre-new CTPL deployment
             } else {
+
+                // case not published due to old CPL
                 if (cplOld.includes(country)) {
                     pageview_message = 'Not published';
-                } else if (date >= '2023-02-06' && pageviews === 0) {
-                    pageview_message = '<90';
-                } else if (date >= '2017-02-09' && pageviews === 0) {
-                    pageview_message = '<450';
-                } else {
-                    pageview_message = pageviews.toLocaleString()
+                    ci_lo = 'N/A';
+                    ci_hi = 'N/A';
+
+                    // case country_project_page data release
+                } else if (date >= '2023-02-06') {
+                    if (pageviews === 0) {
+                        pageview_message = '<90';
+                        ci_lo = 'N/A';
+                        ci_hi = 'N/A';
+
+                        // account for US mistitling bug
+                    } else if (date < '2023-09-19' && country === 'United States') {
+                        if (pageviews === 0) {
+                            pageview_message = '<450';
+                            ci_lo = 'N/A';
+                            ci_hi = 'N/A';
+                        } else {
+                            pageview_message = pageviews.toLocaleString();
+                            ci_lo_num = pageviews - 89.9;
+                            ci_hi_num = pageviews + 89.9;
+                            ci_lo = ci_lo_num.toLocaleString();
+                            ci_hi = ci_hi_num.toLocaleString();
+                        }
+
+                        // account for dropped dates
+                    } else if (dropDates.includes(date)) {
+                        if (pageviews === 0) {
+                            pageview_message = '<450';
+                            ci_lo = 'N/A';
+                            ci_hi = 'N/A';
+                        } else {
+                            pageview_message = pageviews.toLocaleString();
+                            ci_lo_num = pageviews - 89.9;
+                            ci_hi_num = pageviews + 89.9;
+                            ci_lo = ci_lo_num.toLocaleString();
+                            ci_hi = ci_hi_num.toLocaleString();
+                        }
+
+                        // normal case
+                    } else {
+                        pageview_message = pageviews.toLocaleString();
+                        ci_lo_num = pageviews - 35.7;
+                        ci_hi_num = pageviews + 35.7;
+                        ci_lo = ci_lo_num.toLocaleString();
+                        ci_hi = ci_hi_num.toLocaleString();
+                    }
+
+                    // case country_project_page_historical release
+                } else if (date >= '2017-02-09') {
+                    if (pageviews === 0) {
+                        pageview_message = '<450';
+                        ci_lo = 'N/A';
+                        ci_hi = 'N/A';
+                    } else {
+                        pageview_message = pageviews.toLocaleString();
+                        ci_lo_num = pageviews - 89.9;
+                        ci_hi_num = pageviews + 89.9;
+                        ci_lo = ci_lo_num.toLocaleString();
+                        ci_hi = ci_hi_num.toLocaleString();
+                    }
                 }
             }
-            return pageview_message
+            return [pageview_message, ci_lo, ci_hi]
         },
         renderMap(filteredData, date) {
             const totalPageviewsByCountry = new Map();
@@ -164,9 +267,9 @@ export default {
                 .attr('fill', d => {
                     const country = d.properties.name;
                     const pageviews = totalPageviewsByCountry.get(country) || 0;
-                    const pageview_message = this.getCTPL(country, date, pageviews)
-                    if (pageview_message === "Not published") {
-                        return "#808080"
+                    const pageview_message = this.getCTPL(country, date, pageviews);
+                    if (pageview_message[0] === "Not published") {
+                        return "#808080";
                     }
                     return colorScale(totalPageviewsByCountry.get(country) || 1);
                 })
@@ -176,8 +279,14 @@ export default {
                     const country = d.properties.name;
                     const pageviews = totalPageviewsByCountry.get(country) || 0;
                     const pageview_message = this.getCTPL(country, date, pageviews)
+                    var tooltip_html;
+                    if (pageview_message[1] === 'N/A') {
+                        tooltip_html = `<strong>${country}</strong><br>Pageviews: ${pageview_message[0]}`
+                    } else {
+                        tooltip_html = `<strong>${country}</strong><br>Pageviews: ${pageview_message[0]}<br>95% CI: ${pageview_message[1]}-${pageview_message[2]}`
+                    }
                     tooltip.style('visibility', 'visible')
-                        .html(`<strong>${country}</strong><br>Pageviews: ${pageview_message}`);
+                        .html(tooltip_html);
                     d3.select(event.currentTarget)
                         .style('stroke', 'black')
                         .style('stroke-width', 2);
